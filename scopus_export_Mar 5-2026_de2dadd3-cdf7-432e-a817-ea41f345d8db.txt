@@ -1,0 +1,1414 @@
+Scopus
+EXPORT DATE: 05 March 2026
+
+Mano N., Mori K., Ushikubo T., Konishi T., Ito S., Kuramoto J., Ishihara M., Hase K.
+AUTHOR FULL NAMES: Mano, Naoto (57346515300); Mori, Kimihiko (57346186300); Ushikubo, Tomohiro (14632607700); Konishi, Takayuki (59312031900); Ito, Shun (59781244700); Kuramoto, Jin (59781127500); Ishihara, Masayuki (57222189533); Hase, Kimitaka (7006073396)
+57346515300; 57346186300; 14632607700; 59312031900; 59781244700; 59781127500; 57222189533; 7006073396
+Gait Characteristics Associated with Walking Speed in Postoperative Patients with Adult Spinal Deformity Extracted by Machine Learning
+(2025) Annals of Biomedical Engineering, 53 (8), pp. 1797 - 1809, Cited 1 times.
+DOI: 10.1007/s10439-025-03750-x
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105004432662&doi=10.1007%2Fs10439-025-03750-x&partnerID=40&md5=02de3877d3544f33b70e9429a675b386
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Subhash A.R., Motagi A.K.U.
+AUTHOR FULL NAMES: Subhash, Ambika Rani (57210364531); Motagi, Ashwin Kumar U. (57855382200)
+57210364531; 57855382200
+An Efficient Autism Spectrum Disorder Classification in Different Age Groups using Machine Learning Models
+(2024) International journal of online and biomedical engineering, 20 (9), pp. 17 - 38, Cited 2 times.
+DOI: 10.3991/ijoe.v20i09.48831
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197276862&doi=10.3991%2Fijoe.v20i09.48831&partnerID=40&md5=5d874e23a4086f15f8218850240fcd55
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+14th International Conference on Intelligent Robotics and Applications, ICIRA 2021
+(2021) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13015 LNAI, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118153385&partnerID=40&md5=9854be13632da9c93394e1008e354ee4
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kim W., Seong M., DelPreto J., Matusik W., Rus D., Kim S.
+AUTHOR FULL NAMES: Kim, Won (57211678797); Seong, Minwoo (58221158000); DelPreto, Joseph (54792699300); Matusik, Wojciech (56230515000); Rus, Daniela (57218886083); Kim, SeungJun (58255233000)
+57211678797; 58221158000; 54792699300; 56230515000; 57218886083; 58255233000
+Exploring Potential Application Areas of Artificial Intelligence-Infused System for Engagement Recognition: Insights from Special Education Experts
+(2024) UbiComp Companion 2024 - Companion of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing, pp. 803 - 808, Cited 3 times.
+DOI: 10.1145/3675094.3678376
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85206155322&doi=10.1145%2F3675094.3678376&partnerID=40&md5=a4565186ce9ea85beceff96840ea0242
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+4th International Conference on Advanced Computational and Communication Paradigms, ICACCP 2023
+(2023) Lecture Notes in Networks and Systems, 535 LNNS, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174534456&partnerID=40&md5=0f7677257641759fb1ffb8cf90bd508b
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+2022 IEEE Biennial Congress of Argentina, ARGENCON 2022
+(2022) 2022 IEEE Biennial Congress of Argentina, ARGENCON 2022, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142360704&partnerID=40&md5=29d9df186a5e1963d156cd0c22378e0c
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Colella S., Colonnese F., Di Luzio F., Rosato A., Fioravanti A., Panella M.
+AUTHOR FULL NAMES: Colella, Simone (60226426400); Colonnese, Federica (58655473000); Di Luzio, Francesco (57226591560); Rosato, Antonello (57190070846); Fioravanti, Alessio (59471062900); Panella, Massimo (57193363407)
+60226426400; 58655473000; 57226591560; 57190070846; 59471062900; 57193363407
+Graph Attention Networks for Gait-Based Autism Spectrum Disorder Detection and Interpretability
+(2025) Proceedings of the International Joint Conference on Neural Networks, Cited 0 times.
+DOI: 10.1109/IJCNN64981.2025.11227575
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105023982182&doi=10.1109%2FIJCNN64981.2025.11227575&partnerID=40&md5=9d794d35e5206873a10000889c381edc
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+13th International Conference on Universal Access in Human-Computer Interaction, UAHCI 2019, held as part of the 21st International Conference on Human-Computer Interaction, HCI International 2019
+(2019) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 11573 LNCS, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069689573&partnerID=40&md5=aafb62885b42bf8b3619673b58ff1c4a
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+14th International Conference on Intelligent Robotics and Applications, ICIRA 2021
+(2021) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13016 LNAI, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118146044&partnerID=40&md5=9223f5bbb900dcb69bfa66068584d16b
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jequier Gygax M., Maillard A.M., Favre J.
+AUTHOR FULL NAMES: Jequier Gygax, Marine (25638461200); Maillard, Anne M. (57221324284); Favre, Julien (56214113700)
+25638461200; 57221324284; 56214113700
+Could Gait Biomechanics Become a Marker of Atypical Neuronal Circuitry in Human Development?—The Example of Autism Spectrum Disorder
+(2021) Frontiers in Bioengineering and Biotechnology, 9, art. no. 624522, Cited 5 times.
+DOI: 10.3389/fbioe.2021.624522
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103488802&doi=10.3389%2Ffbioe.2021.624522&partnerID=40&md5=82d047bf61c91e95dafc46ccaf6ad0d8
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Rad N.M., van Laarhoven T., Furlanello C., Marchiori E.
+AUTHOR FULL NAMES: Rad, Nastaran Mohammadian (57193606366); van Laarhoven, Twan (53878979600); Furlanello, Cesare (6701821823); Marchiori, Elena (57203071531)
+57193606366; 53878979600; 6701821823; 57203071531
+Novelty detection using deep normative modeling for imu-based abnormal movement monitoring in parkinson’s disease and autism spectrum disorders
+(2018) Sensors (Switzerland), 18 (10), art. no. 3533, Cited 69 times.
+DOI: 10.3390/s18103533
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055164709&doi=10.3390%2Fs18103533&partnerID=40&md5=4e2400e3b0137f024e06f0c9890ef2e5
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+14th International Conference on Intelligent Robotics and Applications, ICIRA 2021
+(2021) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13013 LNAI, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118217502&partnerID=40&md5=4429aa7fe226e14cab14f81f2f6e278b
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lin S.-Y., Lai Y.-P., Chiang H.-C., Cheng Y., Chien S.-Y.
+AUTHOR FULL NAMES: Lin, Szu-Yin (58966300200); Lai, Yi-Pei (57209747828); Chiang, Hao-Chun (58635760100); Cheng, Yawei (16314938800); Chien, Shih-Yi (35387779100)
+58966300200; 57209747828; 58635760100; 16314938800; 35387779100
+Interactive Robot-Aided Diagnosis System for Children with Autism Spectrum Disorder
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14039 LNCS, pp. 41 - 52, Cited 0 times.
+DOI: 10.1007/978-3-031-36049-7_4
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173499654&doi=10.1007%2F978-3-031-36049-7_4&partnerID=40&md5=d7538766e8d981f09f9f7275573bfe31
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Mohd Salah Aljabiri S., Hamdan M.M.
+AUTHOR FULL NAMES: Mohd Salah Aljabiri, Saida (58975666300); Hamdan, Mohammad M. (55106696500)
+58975666300; 55106696500
+Analyzing lower body movements using machine learning to classify autistic children
+(2024) Biomedical Signal Processing and Control, 94, art. no. 106288, Cited 6 times.
+DOI: 10.1016/j.bspc.2024.106288
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189752117&doi=10.1016%2Fj.bspc.2024.106288&partnerID=40&md5=b081b75060b79943df22e46778c508e4
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Duong T.T.H., Goldman S., Zhang H., Salazar R., Beenders S., Cornett K.M., Bain J.M., Montes J., Zanotto D.
+AUTHOR FULL NAMES: Duong, Ton T. H. (57210640062); Goldman, Sylvie (36753093100); Zhang, Huanghe (57204662728); Salazar, Rachel (56734190700); Beenders, Sara (57219798056); Cornett, Kayla M. (56575596000); Bain, Jennifer M. (57206410181); Montes, Jacqueline (34571823000); Zanotto, Damiano (34871027900)
+57210640062; 36753093100; 57204662728; 56734190700; 57219798056; 56575596000; 57206410181; 34571823000; 34871027900
+Validation of Insole-based Gait Analysis System in Young Children with a Neurodevelopmental Disorder and Autism Traits
+(2020) Proceedings of the IEEE RAS and EMBS International Conference on Biomedical Robotics and Biomechatronics, 2020-November, art. no. 9224273, pp. 715 - 720, Cited 24 times.
+DOI: 10.1109/BioRob49111.2020.9224273
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85095613701&doi=10.1109%2FBioRob49111.2020.9224273&partnerID=40&md5=57c89c642af439b6106b6e381a55c07a
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+1st International SIPAIM Workshop on Processing and Analysis of Biomedical Information, SaMBa 2018 held in Conjunction with Medical Image Computing and Computer-Assisted Intervention, MICCAI 2018
+(2019) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 11379, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070939818&partnerID=40&md5=620e9a15a4723633be8876948785dcf9
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Henderson B., Yogarajah P., Gardiner B., McGinnity M., Forster K., Nicholas B., Wimpory D., Wanigasinghe J.
+AUTHOR FULL NAMES: Henderson, Benn (57219434172); Yogarajah, Pratheepan (36844934000); Gardiner, Bryan (24477235800); McGinnity, Martin (7003792410); Forster, Kitty (57219440635); Nicholas, Bradley (18936423100); Wimpory, Dawn (6506252014); Wanigasinghe, Jithangi (16425116500)
+57219434172; 36844934000; 24477235800; 7003792410; 57219440635; 18936423100; 6506252014; 16425116500
+Effects of Intra-Subject Variation in Gait Analysis on ASD Classification Performance in Machine Learning Models
+(2020) 2020 31st Irish Signals and Systems Conference, ISSC 2020, art. no. 9180201, Cited 3 times.
+DOI: 10.1109/ISSC49989.2020.9180201
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092706867&doi=10.1109%2FISSC49989.2020.9180201&partnerID=40&md5=c84bb1851e9d1a69b3141030ac5007c5
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wang Y., Qian Y., Guan L., Kong Y., Xia Z., Xu L., Gao J., Xia J., Fang H., Jiao G., Li Y., Ke X.
+AUTHOR FULL NAMES: Wang, Yonglu (58117776800); Qian, Yuxin (58573540400); Guan, Luyang (58169937300); Kong, Yue (58573304900); Xia, Zhengwang (57255119500); Xu, Lingxi (58117776900); Gao, Jianxing (59781602100); Xia, Jie (60264114500); Fang, Hui (55990714700); Jiao, Gongkai (7005879149); Li, Yun (57188732377); Ke, Xiaoyan (16171001800)
+58117776800; 58573540400; 58169937300; 58573304900; 57255119500; 58117776900; 59781602100; 60264114500; 55990714700; 7005879149; 57188732377; 16171001800
+Closed-loop pathways associated with clinical symptoms in children with autism spectrum disorder: a complex network analysis
+(2025) Quantitative Imaging in Medicine and Surgery, 15 (10), pp. 9921 - 9936, Cited 0 times.
+DOI: 10.21037/qims-2025-93
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105026381203&doi=10.21037%2Fqims-2025-93&partnerID=40&md5=869b8f050fcf063ca5d3ec3a23dc5f77
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Klibaite U., Kislin M., Verpeut J.L., Bergeler S., Sun X., Shaevitz J.W., Wang S.S.-H.
+AUTHOR FULL NAMES: Klibaite, Ugne (57189213364); Kislin, Mikhail (57205178205); Verpeut, Jessica L. (55615225600); Bergeler, Silke (57194182157); Sun, Xiaoting (57222312945); Shaevitz, Joshua W. (9741637700); Wang, Samuel S.-H. (9740253000)
+57189213364; 57205178205; 55615225600; 57194182157; 57222312945; 9741637700; 9740253000
+Deep phenotyping reveals movement phenotypes in mouse neurodevelopmental models
+(2022) Molecular Autism, 13 (1), art. no. 12, Cited 28 times.
+DOI: 10.1186/s13229-022-00492-8
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126210487&doi=10.1186%2Fs13229-022-00492-8&partnerID=40&md5=ccfec6ca0983d510527a26b8a65bfbdf
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Ilias S., Tahir N.M., Jailani R., Hasan C.Z.C.
+AUTHOR FULL NAMES: Ilias, Suryani (57136553100); Tahir, Nooritawati Md (56168849900); Jailani, Rozita (9333874900); Hasan, Che Zawiyah Che (57191612777)
+57136553100; 56168849900; 9333874900; 57191612777
+Linear Discriminant Analysis in Classifying Walking Gait of Autistic Children
+(2017) Proceedings - UKSim-AMSS 11th European Modelling Symposium on Computer Modelling and Simulation, EMS 2017, pp. 67 - 72, Cited 4 times.
+DOI: 10.1109/EMS.2017.22
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048377850&doi=10.1109%2FEMS.2017.22&partnerID=40&md5=4b06c0c547cb82a29a8da21d51e8202e
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Herrero-Martín J., Fonseca D., Caro-Via S., Canaleta X.
+AUTHOR FULL NAMES: Herrero-Martín, Javier (6507610174); Fonseca, David (35224644800); Caro-Via, Selene (57772666600); Canaleta, Xavi (6504566554)
+6507610174; 35224644800; 57772666600; 6504566554
+Development of personalized profiles of students with autism spectrum disorder for interactive interventions with robots to enhance language and social skills
+(2024) Frontiers in Psychiatry, 15, art. no. 1455627, Cited 2 times.
+DOI: 10.3389/fpsyt.2024.1455627
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85210488394&doi=10.3389%2Ffpsyt.2024.1455627&partnerID=40&md5=257e8364ff51fe33a473f105e3978d21
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Chandra A., Verma S., Raghuvanshi A.S., Bodhey N.K.
+AUTHOR FULL NAMES: Chandra, Anjali (57215314641); Verma, Shrish (7402328422); Raghuvanshi, A.S. (14013389300); Bodhey, Narendra Kuber (8537947500)
+57215314641; 7402328422; 14013389300; 8537947500
+CCsNeT: Automated Corpus Callosum segmentation using fully convolutional network based on U-Net
+(2022) Biocybernetics and Biomedical Engineering, 42 (1), pp. 187 - 203, Cited 10 times.
+DOI: 10.1016/j.bbe.2021.12.008
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123090094&doi=10.1016%2Fj.bbe.2021.12.008&partnerID=40&md5=0526654dc606f08bd0d5153ddffb0aad
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gardner-Hoag J., Novack M., Parlett-Pelleriti C., Stevens E., Dixon D., Linstead E.
+AUTHOR FULL NAMES: Gardner-Hoag, Julie (57224532410); Novack, Marlena (57189347872); Parlett-Pelleriti, Chelsea (57208574344); Stevens, Elizabeth (57193318465); Dixon, Dennis (7401748113); Linstead, Erik (16307496400)
+57224532410; 57189347872; 57208574344; 57193318465; 7401748113; 16307496400
+Unsupervised machine learning for identifying challenging behavior profiles to explore cluster-based treatment efficacy in children with autism spectrum disorder: Retrospective data analysis study
+(2021) JMIR Medical Informatics, 9 (6), art. no. e27793, Cited 9 times.
+DOI: 10.2196/27793
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107841704&doi=10.2196%2F27793&partnerID=40&md5=4200cdc6c26ebb46181fbf148ea4618c
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Xavier J., Guedjou H., Anzalone S.M., Boucenna S., Guigon E., Chetouani M., Cohen D.
+AUTHOR FULL NAMES: Xavier, J. (10141559900); Guedjou, H. (57191380147); Anzalone, S.M. (6507273126); Boucenna, S. (35301591400); Guigon, E. (6701726570); Chetouani, M. (8964513700); Cohen, D. (57198586747)
+10141559900; 57191380147; 6507273126; 35301591400; 6701726570; 8964513700; 57198586747
+Toward a motor signature in autism: Studies from human-machine interaction
+(2019) Encephale, 45 (2), pp. 182 - 187, Cited 12 times.
+DOI: 10.1016/j.encep.2018.08.002
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057386595&doi=10.1016%2Fj.encep.2018.08.002&partnerID=40&md5=d7e7b42514d943f7383f4c99d378ef10
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Takami M., Nishiyama D., Tsutsui S., Nagata K., Ishimoto Y., Oda K., Iwasaki H., Hashizume H., Yamada H.
+AUTHOR FULL NAMES: Takami, Masanari (7102741078); Nishiyama, Daisuke (56814903300); Tsutsui, Shunji (26434955000); Nagata, Keiji (54581330700); Ishimoto, Yuyu (55097638500); Oda, Kotaro (57218175187); Iwasaki, Hiroshi (58368475800); Hashizume, Hiroshi (7102076842); Yamada, Hiroshi (58409042400)
+7102741078; 56814903300; 26434955000; 54581330700; 55097638500; 57218175187; 58368475800; 7102076842; 58409042400
+Pelvic Kinematics during Gait Following Long-Segment Spinal Fusion Due to Adult Spinal Deformity: An Analysis Using a Smartphone-Based Inertial Measurement Unit
+(2025) Spine Surgery and Related Research, 9 (2), pp. 188 - 194, Cited 0 times.
+DOI: 10.22603/ssrr.2024-0119
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001384899&doi=10.22603%2Fssrr.2024-0119&partnerID=40&md5=b9641aa1609e751bf2b1a8d98df8ed63
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Carati E., Angotti M., Pignataro V., Grossi E., Parmeggiani A.
+AUTHOR FULL NAMES: Carati, Elisa (57223085766); Angotti, Marida (57202581889); Pignataro, Veronica (57202584014); Grossi, Enzo (7101836267); Parmeggiani, Antonia (7102692632)
+57223085766; 57202581889; 57202584014; 7101836267; 7102692632
+Exploring sensory alterations and repetitive behaviors in children with autism spectrum disorder from the perspective of artificial neural networks
+(2024) Research in Developmental Disabilities, 155, art. no. 104881, Cited 3 times.
+DOI: 10.1016/j.ridd.2024.104881
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85209582051&doi=10.1016%2Fj.ridd.2024.104881&partnerID=40&md5=028fbd021f96ffc9bdbac7ab6f537d11
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Zakaria N.K., Jailani R., Tahir N.M.
+AUTHOR FULL NAMES: Zakaria, Nur Khalidah (55976067100); Jailani, Rozita (9333874900); Tahir, Nooritawati Md (56168849900)
+55976067100; 9333874900; 56168849900
+A Markerless-based Gait Analysis and Visualization Approach for ASD Children
+(2021) International Journal of Advanced Computer Science and Applications, 12 (5), pp. 426 - 432, Cited 5 times.
+DOI: 10.14569/IJACSA.2021.0120553
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107596132&doi=10.14569%2FIJACSA.2021.0120553&partnerID=40&md5=6c345b5bf0f12510d8b2aa34d46800eb
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Song C., Hu L., Wu L., Jiang Z.
+AUTHOR FULL NAMES: Song, Chao (57864693700); Hu, Lifei (57204765594); Wu, Lingling (57202444563); Jiang, Zhongquan (58595973000)
+57864693700; 57204765594; 57202444563; 58595973000
+Construction and evaluation of a Gradient Boosting Machines prediction model for children withautism spectrum disorder complicated with intellectual impairment [孤独症谱系障碍儿童合并智力功能缺陷的 GBM预测模型构建与评价]
+(2023) Zhongguo Ertong Baojian Zazhi, 31 (3), pp. 241-245 and 258, Cited 0 times.
+DOI: 10.11852/zgetbjzz2022-1433
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175583793&doi=10.11852%2Fzgetbjzz2022-1433&partnerID=40&md5=2a874b2f2042a25fa4d869a9d706a60b
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ali A., Negin F., Thümmler S., Bremond F.
+AUTHOR FULL NAMES: Ali, Abid (58621555200); Negin, Farhood (55807355500); Thümmler, Susanne (14323873700); Bremond, Francois (6602918684)
+58621555200; 55807355500; 14323873700; 6602918684
+Video-based Behavior Understanding of Children for Objective Diagnosis of Autism
+(2022) Proceedings of the International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 5, pp. 475 - 484, Cited 29 times.
+DOI: 10.5220/0010839200003124
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85161233601&doi=10.5220%2F0010839200003124&partnerID=40&md5=11e0a5327b3a5ebd0cab328a78f661e7
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Bharathi G., Jayaramayya K., Balasubramanian V., Vellingiri B.
+AUTHOR FULL NAMES: Bharathi, Geetha (57207717255); Jayaramayya, Kaavya (57201381190); Balasubramanian, Venkatesh (57191832988); Vellingiri, Balachandar (22978217900)
+57207717255; 57201381190; 57191832988; 22978217900
+The potential role of rhythmic entrainment and music therapy intervention for individuals with autism spectrum disorders
+(2019) Journal of Exercise Rehabilitation, 15 (2), pp. 180 - 186, Cited 53 times.
+DOI: 10.12965/jer.1836578.289
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065581212&doi=10.12965%2Fjer.1836578.289&partnerID=40&md5=6f5db7bbf193f5f9a41af2229d45bdd2
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Dufour M.-M., Lanovaz M.J., Cardinal P.
+AUTHOR FULL NAMES: Dufour, Marie-Michèle (56720137800); Lanovaz, Marc J. (35113414800); Cardinal, Patrick (24342759700)
+56720137800; 35113414800; 24342759700
+Artificial intelligence for the measurement of vocal stereotypy
+(2020) Journal of the Experimental Analysis of Behavior, 114 (3), pp. 368 - 380, Cited 15 times.
+DOI: 10.1002/jeab.636
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85096179175&doi=10.1002%2Fjeab.636&partnerID=40&md5=1651b9bf42eb95910ae721eec6f33cb4
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Ortelli P., Ferrazzoli D., Versace V., Cian V., Zarucchi M., Gusmeroli A., Canesi M., Frazzitta G., Volpe D., Ricciardi L., Nardone R., Ruffini I., Saltuari L., Sebastianelli L., Baranzini D., Maestri R.
+AUTHOR FULL NAMES: Ortelli, Paola (6505699868); Ferrazzoli, Davide (57191433220); Versace, Viviana (15852025600); Cian, Veronica (57202689538); Zarucchi, Marianna (57194023696); Gusmeroli, Anna (57573843700); Canesi, Margherita (6602863764); Frazzitta, Giuseppe (6602601515); Volpe, Daniele (55752763600); Ricciardi, Lucia (36167347400); Nardone, Raffaele (7003898851); Ruffini, Ingrid (57202122376); Saltuari, Leopold (7003682248); Sebastianelli, Luca (57193407166); Baranzini, Daniele (26428680100); Maestri, Roberto (7006495383)
+6505699868; 57191433220; 15852025600; 57202689538; 57194023696; 57573843700; 6602863764; 6602601515; 55752763600; 36167347400; 7003898851; 57202122376; 7003682248; 57193407166; 26428680100; 7006495383
+Optimization of cognitive assessment in Parkinsonisms by applying artificial intelligence to a comprehensive screening test
+(2022) npj Parkinson's Disease, 8 (1), art. no. 42, Cited 12 times.
+DOI: 10.1038/s41531-022-00304-z
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128095598&doi=10.1038%2Fs41531-022-00304-z&partnerID=40&md5=6353f8f0595b05492a138a534a1ccd44
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+8th International Conference on Robot Intelligence Technology and Applications, RiTA 2020
+(2021) Lecture Notes in Mechanical Engineering, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135188315&partnerID=40&md5=f7b5a46a83e3fcd372e98ce65b10c867
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+4th World Conference on Internet of Things: Applications and Future, ITAF 2024
+(2026) Lecture Notes in Networks and Systems, 1339 LNNS, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105019526427&partnerID=40&md5=bb39d549c92e4eda0a35d73de88f6e63
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sun K., Li Y., Zhai Z., Yin H., Liang S., Zhai F., Cui Y., Zhang G.
+AUTHOR FULL NAMES: Sun, Ke (57222089262); Li, Ying (57209468716); Zhai, Zhenhang (58899909200); Yin, Heqing (58899519600); Liang, Shuli (36173345300); Zhai, Feng (55360335300); Cui, Yonghua (55179049200); Zhang, Guojun (55619297603)
+57222089262; 57209468716; 58899909200; 58899519600; 36173345300; 55360335300; 55179049200; 55619297603
+Effects of transcutaneous auricular vagus nerve stimulation and exploration of brain network mechanisms in children with high−functioning autism spectrum disorder: study protocol for a randomized controlled trial
+(2024) Frontiers in Psychiatry, 15, art. no. 1337101, Cited 2 times.
+DOI: 10.3389/fpsyt.2024.1337101
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185671399&doi=10.3389%2Ffpsyt.2024.1337101&partnerID=40&md5=b625afccad4e6c18732fed9cd24fe0dc
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Jazouli M., Majda A., Merad D., Aalouane R., Zarghili A.
+AUTHOR FULL NAMES: Jazouli, Maha (56925494900); Majda, Aicha (46161449100); Merad, Djamal (17434913000); Aalouane, Rachid (24381855300); Zarghili, Arsalane (7801340942)
+56925494900; 46161449100; 17434913000; 24381855300; 7801340942
+Automatic detection of stereotyped movements in autistic children using the Kinect sensor
+(2019) International Journal of Biomedical Engineering and Technology, 29 (3), pp. 201 - 220, Cited 14 times.
+DOI: 10.1504/IJBET.2019.097621
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061204583&doi=10.1504%2FIJBET.2019.097621&partnerID=40&md5=cb8e79231f9521a48cd53e1309a12a33
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kang J.Y., Kim R., Kim H., Kang Y., Hahn S., Fu Z., Khalid M.I., Schenck E., Thesen T.
+AUTHOR FULL NAMES: Kang, Joon Young (57189073476); Kim, Ryunhyung (57189072062); Kim, Hyunsun (57189076883); Kang, Yeonjune (57189064439); Hahn, Susan (57189068037); Fu, Zhengrui (57189062661); Khalid, Mamoon I. (57189064902); Schenck, Enja (57189068683); Thesen, Thomas (60118463600)
+57189073476; 57189072062; 57189076883; 57189064439; 57189068037; 57189062661; 57189064902; 57189068683; 60118463600
+Automated tracking and quantification of autistic behavioral symptoms using microsoft kinect
+(2016) Studies in Health Technology and Informatics, 220, pp. 167 - 170, Cited 14 times.
+DOI: 10.3233/978-1-61499-625-5-167
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84965036940&doi=10.3233%2F978-1-61499-625-5-167&partnerID=40&md5=3def8cc15dc4d8884aebdb739302d665
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Barami T., Manelis-Baram L., Kaiser H., Ilan M., Slobodkin A., Hadashi O., Hadad D., Waissengreen D., Nitzan T., Menashe I., Michaelovsky A., Begin M., Zachor D.A., Sadaka Y., Koler J., Zagdon D., Meiri G., Azencot O., Sharf A., Dinstein I.
+AUTHOR FULL NAMES: Barami, Tal (58999626400); Manelis-Baram, Liora (57194585236); Kaiser, Hadas (58999330100); Ilan, Michal (57194595484); Slobodkin, Aviv (57223979241); Hadashi, Ofri (58999925600); Hadad, Dor (58998886700); Waissengreen, Danel (57801648700); Nitzan, Tanya (57924025500); Menashe, Idan (57220360596); Michaelovsky, Analya (58543077100); Begin, Michal (58586535300); Zachor, Ditza A. (6602573198); Sadaka, Yair (6507743679); Koler, Judah (58999482400); Zagdon, Dikla (58999185600); Meiri, Gal (7801433301); Azencot, Omri (55805478600); Sharf, Andrei (6507000212); Dinstein, Ilan (21742041100)
+58999626400; 57194585236; 58999330100; 57194595484; 57223979241; 58999925600; 58998886700; 57801648700; 57924025500; 57220360596; 58543077100; 58586535300; 6602573198; 6507743679; 58999482400; 58999185600; 7801433301; 55805478600; 6507000212; 21742041100
+Automated Analysis of Stereotypical Movements in Videos of Children with Autism Spectrum Disorder
+(2024) JAMA Network Open, 7 (9), pp. e2432851, Cited 8 times.
+DOI: 10.1001/jamanetworkopen.2024.32851
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85204071315&doi=10.1001%2Fjamanetworkopen.2024.32851&partnerID=40&md5=e03063721cd7edc39a66c60d091e6b41
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+2018 IEEE 3rd International Conference on Circuits, Control, Communication and Computing, I4C 2018
+(2018) 2018 IEEE 3rd International Conference on Circuits, Control, Communication and Computing, I4C 2018, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068759607&partnerID=40&md5=122cd82117bf9711282cac7129c63033
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Mekhael E., El Rachkidi R., Saliby R.M., Nassim N., Semaan K., Massaad A., Karam M., Saade M., Ayoub E., Rteil A., Jaber E., Chaaya C., Abi Nahed J., Ghanem I., Assi A.
+AUTHOR FULL NAMES: Mekhael, Elio (57336646100); El Rachkidi, Rami (23767327400); Saliby, Renee Maria (57211041041); Nassim, Nabil (57336646200); Semaan, Karl (57439737400); Massaad, Abir (55863544300); Karam, Mohamad (57191222341); Saade, Maria (60164063900); Ayoub, Elma (57398096500); Rteil, Ali (59821199100); Jaber, Elena (57222189468); Chaaya, Celine (57397538600); Abi Nahed, Julien (15041523100); Ghanem, Ismat (7003772402); Assi, Ayman (8286486900)
+57336646100; 23767327400; 57211041041; 57336646200; 57439737400; 55863544300; 57191222341; 60164063900; 57398096500; 59821199100; 57222189468; 57397538600; 15041523100; 7003772402; 8286486900
+Functional assessment using 3D movement analysis can better predict health-related quality of life outcomes in patients with adult spinal deformity: a machine learning approach
+(2023) Frontiers in Surgery, 10, art. no. 1166734, Cited 20 times.
+DOI: 10.3389/fsurg.2023.1166734
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159892354&doi=10.3389%2Ffsurg.2023.1166734&partnerID=40&md5=6f95a374da90c92ae98db3b4ef282c82
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Antezana L., Conner C.M., Eldeeb S., Turecki S., Siegel M., Karim H.T., Mazefsky C.A.
+AUTHOR FULL NAMES: Antezana, Ligia (55737373600); Conner, Caitlin M. (36157813500); Eldeeb, Safaa (55515907100); Turecki, Samuel (59309258500); Siegel, Matthew (57203087593); Karim, Helmet T. (54179269900); Mazefsky, Carla A. (8555056100)
+55737373600; 36157813500; 55515907100; 59309258500; 57203087593; 54179269900; 8555056100
+Using machine learning to identify features associated with different types of self-injurious behaviors in autistic youth
+(2025) Psychological Medicine, 55, art. no. e98, Cited 1 times.
+DOI: 10.1017/S0033291725000637
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001704277&doi=10.1017%2FS0033291725000637&partnerID=40&md5=5a7d5e01183f77dc6b68f64889ff119f
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+3rd International Conference on Sustainable Expert Systems, ICSES 2022
+(2023) Lecture Notes in Networks and Systems, 587, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85149623630&partnerID=40&md5=da795878fcd9708d05ef4ea0eee5488a
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Duan W., Li J., Ouyang G.
+AUTHOR FULL NAMES: Duan, Wenhao (59504886200); Li, Jing (57281325700); Ouyang, Gaoxiang (7005498402)
+59504886200; 57281325700; 7005498402
+Facial Instance Learning for Video-based ASD Diagnosis
+(2024) M2VIP - Proceedings of the International Conference on Mechatronics and Machine Vision in Practice, (2024), Cited 0 times.
+DOI: 10.1109/M2VIP62491.2024.10746003
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214392354&doi=10.1109%2FM2VIP62491.2024.10746003&partnerID=40&md5=a25bcb634cef715ca6c06a6a523ed62a
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Yue X., Zhang G., Li X., Shen Y., Wei W., Bai Y., Luo Y., Wei H., Li Z., Zhang X., Wang M.
+AUTHOR FULL NAMES: Yue, Xipeng (57679597000); Zhang, Ge (57217164750); Li, Xiaochen (57218467503); Shen, Yu (57217070882); Wei, Wei (57365390900); Bai, Yan (57077433300); Luo, Yu (57680206500); Wei, Huanhuan (57679289000); Li, Ziqiang (58070770600); Zhang, Xianchang (57209262984); Wang, Meiyun (36609343900)
+57679597000; 57217164750; 57218467503; 57217070882; 57365390900; 57077433300; 57680206500; 57679289000; 58070770600; 57209262984; 36609343900
+Abnormal Dynamic Functional Network Connectivity in Adults with Autism Spectrum Disorder
+(2022) Clinical Neuroradiology, 32 (4), pp. 1087 - 1096, Cited 13 times.
+DOI: 10.1007/s00062-022-01173-y
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129867220&doi=10.1007%2Fs00062-022-01173-y&partnerID=40&md5=a17dbfad37ca419b7cb5faecee8bbb9a
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Shin J., Miah A.S.M., Kakizaki M., Hassan N., Tomioka Y.
+AUTHOR FULL NAMES: Shin, Jungpil (7402723945); Miah, Abu Saleh Musa (57203037361); Kakizaki, Manato (58876441800); Hassan, Najmul (57213013147); Tomioka, Yoichi (40462533000)
+7402723945; 57203037361; 58876441800; 57213013147; 40462533000
+Autism Spectrum Disorder Detection Using Skeleton-Based Body Movement Analysis via Dual-Stream Deep Learning
+(2025) Electronics (Switzerland), 14 (11), art. no. 2231, Cited 2 times.
+DOI: 10.3390/electronics14112231
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105007667796&doi=10.3390%2Felectronics14112231&partnerID=40&md5=286ac54d8186ba4cddf865036e11b69a
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Zahan S., Gilani Z., Hassan G.M., Mian A.
+AUTHOR FULL NAMES: Zahan, Sania (57193878132); Gilani, Zulqarnain (35772555600); Hassan, Ghulam Mubashar (24483036800); Mian, Ajmal (7006066881)
+57193878132; 35772555600; 24483036800; 7006066881
+Human Gesture and Gait Analysis for Autism Detection
+(2023) IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, 2023-June, pp. 3328 - 3337, Cited 22 times.
+DOI: 10.1109/CVPRW59228.2023.00335
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85170823033&doi=10.1109%2FCVPRW59228.2023.00335&partnerID=40&md5=96f17909d4e9bed9753075e3e2c7ebe5
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sadek E.T., Seada N.A., Ghoniemy S.
+AUTHOR FULL NAMES: Sadek, Esraa T. (57221982137); Seada, Noha A. (57192157713); Ghoniemy, Said (24586653300)
+57221982137; 57192157713; 24586653300
+Computer vision-based approach for detecting arm-flapping as autism suspect behaviour
+(2022) International Journal of Medical Engineering and Informatics, 15 (2), pp. 166 - 176, Cited 3 times.
+DOI: 10.1504/IJMEI.2023.129350
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153727027&doi=10.1504%2FIJMEI.2023.129350&partnerID=40&md5=b3987e696625e89947f34d8531e88719
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Caruso A., Ribas Marzena Szkodo M.O., Micai M., Bernava G.M., Tartarisco G., Pérez D.L., Fazio M., Tomalski P., Scattoni M.L.
+AUTHOR FULL NAMES: Caruso, Angela (14055376200); Ribas Marzena Szkodo, Marzena Oliveira (59310482500); Micai, Martina (57140816500); Bernava, Giuseppe Massimo (35078123000); Tartarisco, Gennaro (36168586800); Pérez, DavidLópez (57199864789); Fazio, Maria (7103169882); Tomalski, Przemyslaw (6506755610); Scattoni, Maria Luisa (6602591398)
+14055376200; 59310482500; 57140816500; 35078123000; 36168586800; 57199864789; 7103169882; 6506755610; 6602591398
+Using DeepLabCut to Recognize Early Motor Development Patterns Associated with Neurodevelopmental Disorders
+(2024) IEEE Access, 12, pp. 116126 - 116134, Cited 4 times.
+DOI: 10.1109/ACCESS.2024.3441330
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200807242&doi=10.1109%2FACCESS.2024.3441330&partnerID=40&md5=cb9209e865b8f5b6079949a2ba2da115
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Omrani A.R., Lanovaz M.J., Moroni D.
+AUTHOR FULL NAMES: Omrani, Ali Reza (56031728100); Lanovaz, Marc J. (35113414800); Moroni, Davide (23397809400)
+56031728100; 35113414800; 23397809400
+Machine Learning to Detect Vocal Stereotypy: Improving Duration-Based Measures
+(2026) Behavior Modification, 50 (2), pp. 123 - 147, Cited 0 times.
+DOI: 10.1177/01454455251380510
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105019248964&doi=10.1177%2F01454455251380510&partnerID=40&md5=25b30267590d1b1d58860fbaaba53c5e
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Rafique I., Fatima K., Dastagir A., Mahmood S., Hussain M.
+AUTHOR FULL NAMES: Rafique, Insha (57214824421); Fatima, Kashmala (57214820963); Dastagir, Anum (57214824532); Mahmood, Sajid (57212499278); Hussain, Muzammil (57189372503)
+57214824421; 57214820963; 57214824532; 57212499278; 57189372503
+Autism Identification and Learning Through Motor Gesture Patterns
+(2019) 3rd International Conference on Innovative Computing, ICIC 2019, art. no. 8966740, Cited 49 times.
+DOI: 10.1109/ICIC48496.2019.8966740
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079229866&doi=10.1109%2FICIC48496.2019.8966740&partnerID=40&md5=8b628a82230f872002e32ceb2d91f0bb
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Anzures G., Goyet L., Ganea N., Johnson M.H.
+AUTHOR FULL NAMES: Anzures, Gizelle (24467309700); Goyet, Louise (35789593000); Ganea, Natasa (56449332700); Johnson, Mark H. (36072829800)
+24467309700; 35789593000; 56449332700; 36072829800
+Enhanced ERPs to visual stimuli in unaffected male siblings of ASD children
+(2016) Child Neuropsychology, 22 (2), pp. 220 - 237, Cited 6 times.
+DOI: 10.1080/09297049.2014.988609
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84948380245&doi=10.1080%2F09297049.2014.988609&partnerID=40&md5=3efd52f0d12f9fbab2f5edfd4d860d45
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Prasad T., Iyer S., Chatterjee S., Kumar M.
+AUTHOR FULL NAMES: Prasad, Tuhina (58378771700); Iyer, Sharada (57222867365); Chatterjee, Sayoni (58094100500); Kumar, Megha (56735058600)
+58378771700; 57222867365; 58094100500; 56735058600
+In vivo models to study neurogenesis and associated neurodevelopmental disorders—Microcephaly and autism spectrum disorder
+(2023) WIREs Mechanisms of Disease, 15 (4), art. no. e1603, Cited 5 times.
+DOI: 10.1002/wsbm.1603
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147575084&doi=10.1002%2Fwsbm.1603&partnerID=40&md5=bb4506b9261ef1278b7925d0b504304b
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Ilias S., Tahir N.M., Jailani R., Hasan C.Z.C.
+AUTHOR FULL NAMES: Ilias, Suryani (57136553100); Tahir, Nooritawati Md (56168849900); Jailani, Rozita (9333874900); Hasan, Che Zawiyah Che (57191612777)
+57136553100; 56168849900; 9333874900; 57191612777
+Classification of autism children gait patterns using Neural Network and Support Vector Machine
+(2016) ISCAIE 2016 - 2016 IEEE Symposium on Computer Applications and Industrial Electronics, art. no. 7575036, pp. 52 - 56, Cited 29 times.
+DOI: 10.1109/ISCAIE.2016.7575036
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992135613&doi=10.1109%2FISCAIE.2016.7575036&partnerID=40&md5=43867fea04980a65e5e2a8d8e53df7fa
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Henderson B., Pratheepan Y., Gardiner B., McGinnity T.M.
+AUTHOR FULL NAMES: Henderson, Benn (57219434172); Pratheepan, Yogarajah (36844934000); Gardiner, Bryan (24477235800); McGinnity, T.M. (7003792410)
+57219434172; 36844934000; 24477235800; 7003792410
+3D Human Pose Estimation Model Analysis: Gait Analytics for Autism Spectrum Disorder Detection
+(2023) 2023 31st Irish Conference on Artificial Intelligence and Cognitive Science, AICS 2023, Cited 0 times.
+DOI: 10.1109/AICS60730.2023.10470580
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189930940&doi=10.1109%2FAICS60730.2023.10470580&partnerID=40&md5=854e207500e7943d524cdd7d658636a1
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Camada M.Y.O., Cerqueira J.J.F., Lima A.M.N.
+AUTHOR FULL NAMES: Camada, Marcos Y.O. (35955494000); Cerqueira, Jés J.F. (6602386284); Lima, Antonio M.N. (7202634615)
+35955494000; 6602386284; 7202634615
+Computational model for identifying stereotyped behaviors and determining the activation level of pseudo-autistic
+(2021) Applied Soft Computing, 99, art. no. 106877, Cited 6 times.
+DOI: 10.1016/j.asoc.2020.106877
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85096442186&doi=10.1016%2Fj.asoc.2020.106877&partnerID=40&md5=c33a4df23486f5ae0bd2a23c2616c398
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wahle C.F., Elias A.M., Galoustian N.A., Tee T.M., Juels M.L., Amacker C., Waters H., Thompson R.M.
+AUTHOR FULL NAMES: Wahle, Charlotte F. (58122291900); Elias, Aura M. (59164462300); Galoustian, Nora A. (59501100700); Tee, Teana M. (60418606100); Juels, Michaela L. (58872896600); Amacker, Christine (60418124200); Waters, Heather (60418453600); Thompson, Rachel M. (56903416700)
+58122291900; 59164462300; 59501100700; 60418606100; 58872896600; 60418124200; 60418453600; 56903416700
+Video and Wearable Sensor Technologies for Early Detection of Cerebral Palsy in Infants: A Scoping Review
+(2026) Journal of Clinical Medicine, 15 (4), art. no. 1510, Cited 0 times.
+DOI: 10.3390/jcm15041510
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105031223895&doi=10.3390%2Fjcm15041510&partnerID=40&md5=73977ed96b4728b43d8a579caee6d4f6
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Lepagnol-Bestel A.-M., Loe-Mie Y., Bensaid M., Simonneau M.
+AUTHOR FULL NAMES: Lepagnol-Bestel, Aude-Marie (16244980800); Loe-Mie, Yann (24483728700); Bensaid, Mounia (57224162040); Simonneau, Michel (7006538212)
+16244980800; 24483728700; 57224162040; 7006538212
+AUTS2 expression within mammalian lineage: A predictor of neural networks involved in autism spectrum disorders
+(2025) Genes and Diseases, 12 (3), art. no. 101440, Cited 1 times.
+DOI: 10.1016/j.gendis.2024.101440
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215066807&doi=10.1016%2Fj.gendis.2024.101440&partnerID=40&md5=6805a489e200eca14c3e4f768b494055
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Saleh M.A., Marbukhari N., Hashim H.
+AUTHOR FULL NAMES: Saleh, Mohamed A. (56511144700); Marbukhari, N. (57194553499); Hashim, Habibah (16021805400)
+56511144700; 57194553499; 16021805400
+A deep learning approach in robot-assisted behavioral therapy for autistic children
+(2019) International Journal of Advanced Trends in Computer Science and Engineering, 8 (1.6 Special Issue), art. no. 63, pp. 437 - 443, Cited 3 times.
+DOI: 10.30534/ijatcse/2019/6381.62019
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078254537&doi=10.30534%2Fijatcse%2F2019%2F6381.62019&partnerID=40&md5=10c9587f31dba21da662afb96a849fb2
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+So W.-C., Wong E., Ng W., Lay S., Wong W., So M.-T., Lee X.-H., Lee Y.-Y.
+AUTHOR FULL NAMES: So, Wing-Chee (56238126700); Wong, Elsa (58794366400); Ng, Wingo (58793646100); Lay, Sally (58794366500); Wong, Wynes (60142004600); So, Ming-Ting (58795089200); Lee, Xiao-Han (60141631300); Lee, Yuen-Yung (58794366600)
+56238126700; 58794366400; 58793646100; 58794366500; 60142004600; 58795089200; 60141631300; 58794366600
+Development and evaluation of robotic detection technology for assessing autism
+(2025) Frontiers in Psychiatry, 16, art. no. 1636560, Cited 0 times.
+DOI: 10.3389/fpsyt.2025.1636560
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105018811123&doi=10.3389%2Ffpsyt.2025.1636560&partnerID=40&md5=853e95a62fe8f263ee2aa0d217e70d59
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Singh A., Pradhan A., Padhiar K., Speedy B., Chester V.
+AUTHOR FULL NAMES: Singh, Aniket (59353285400); Pradhan, Ashirbad (57212518088); Padhiar, Karansinh (57939433100); Speedy, Brett (58781414500); Chester, Victoria (9240384400)
+59353285400; 57212518088; 57939433100; 58781414500; 9240384400
+Effects of walking speed on the classification of gait patterns in children with autism
+(2024) Proceedings of the World Congress on Electrical Engineering and Computer Systems and Science, Cited 0 times.
+DOI: 10.11159/icbes24.147
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85205538089&doi=10.11159%2Ficbes24.147&partnerID=40&md5=95b5e6b8ca3b34ca1d46046a34a7ed48
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Jailani R., Zakaria N.K., Nor M.N.M., Supriyono H.
+AUTHOR FULL NAMES: Jailani, Rozita (9333874900); Zakaria, Nur Khalidah (55976067100); Nor, M.N. Mohd (57212112128); Supriyono, Heru (57203964749)
+9333874900; 55976067100; 57212112128; 57203964749
+Diagnosing Autism Spectrum Disorder in Pediatric Patients via Gait Analysis using ANN and SVM with Electromyography Signals
+(2024) International Journal of Advanced Computer Science and Applications, 15 (2), pp. 990 - 996, Cited 0 times.
+DOI: 10.14569/IJACSA.2024.01502100
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186849387&doi=10.14569%2FIJACSA.2024.01502100&partnerID=40&md5=f4842dea31fb95d88f5d0e28fd80b532
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Simeoli R., Milano N., Rega A., Marocco D.
+AUTHOR FULL NAMES: Simeoli, Roberta (57213001667); Milano, Nicola (57190257011); Rega, Angelo (7006595244); Marocco, Davide (6602498315)
+57213001667; 57190257011; 7006595244; 6602498315
+Using Technology to Identify Children With Autism Through Motor Abnormalities
+(2021) Frontiers in Psychology, 12, art. no. 635696, Cited 45 times.
+DOI: 10.3389/fpsyg.2021.635696
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107392728&doi=10.3389%2Ffpsyg.2021.635696&partnerID=40&md5=6feb08aa2db864f43a7c8155620f7d6a
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Saranya A., Anandan R.
+AUTHOR FULL NAMES: Saranya, A. (57211066780); Anandan, R. (55418360900)
+57211066780; 55418360900
+Cognitive Human Gait Analysis for Neuro-Physically Challenged Patients by Bat Optimization Algorithm
+(2022) International Journal of Reliable and Quality E-Healthcare, 11 (1), Cited 0 times.
+DOI: 10.4018/IJRQEH.313915
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85154028636&doi=10.4018%2FIJRQEH.313915&partnerID=40&md5=849f7fcd5f7a9f41a5d07f2c393d5ace
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Millar L., McConnachie A., Minnis H., Wilson P., Thompson L., Anzulewicz A., Sobota K., Rowe P., Gillberg C., Delafield-Butt J.
+AUTHOR FULL NAMES: Millar, Lindsay (57202988037); McConnachie, Alex (6701526254); Minnis, Helen (6602079258); Wilson, Philip (57203055015); Thompson, Lucy (28268123000); Anzulewicz, Anna (56059865400); Sobota, Krzysztof (57190870598); Rowe, Philip (35617880500); Gillberg, Christopher (7101634220); Delafield-Butt, Jonathan (8983874000)
+57202988037; 6701526254; 6602079258; 57203055015; 28268123000; 56059865400; 57190870598; 35617880500; 7101634220; 8983874000
+Phase 3 diagnostic evaluation of a smart tablet serious game to identify autism in 760 children 3-5 years old in Sweden and the United Kingdom
+(2019) BMJ Open, 9 (7), art. no. e026226, Cited 20 times.
+DOI: 10.1136/bmjopen-2018-026226
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069521298&doi=10.1136%2Fbmjopen-2018-026226&partnerID=40&md5=3879259d32807dbc3f0ec8fac24ecff9
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Chen K., Xu J., Asada T., Miura K., Sakashita K., Sunami T., Kadone H., Yamazaki M., Ienaga N., Kuroda Y.
+AUTHOR FULL NAMES: Chen, Kaixu (59445448900); Xu, Jiayi (57211142266); Asada, Tomoyuki (57209413119); Miura, Kousei (57196415531); Sakashita, Kotaro (57574498400); Sunami, Takahiro (57210913553); Kadone, Hideki (24479446400); Yamazaki, Masashi (57221396825); Ienaga, Naoto (56938798100); Kuroda, Yoshihiro (7403011856)
+59445448900; 57211142266; 57209413119; 57196415531; 57574498400; 57210913553; 24479446400; 57221396825; 56938798100; 7403011856
+PhaseMix: A Periodic Motion Fusion Method for Adult Spinal Deformity Classification
+(2024) IEEE Access, 12, pp. 152358 - 152376, Cited 1 times.
+DOI: 10.1109/ACCESS.2024.3479165
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207631521&doi=10.1109%2FACCESS.2024.3479165&partnerID=40&md5=47c4c62a2fd29f1742a8c771f0dc2df1
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Wedasingha N., Samarasinghe P., Senevirathna L., Papandrea M., Puiatti A., Rankin D.
+AUTHOR FULL NAMES: Wedasingha, Nushara (57835817600); Samarasinghe, Pradeepa (57212511361); Senevirathna, Lasantha (57196508206); Papandrea, Michela (35311669200); Puiatti, Alessandro (14039625400); Rankin, Debbie (35243293500)
+57835817600; 57212511361; 57196508206; 35311669200; 14039625400; 35243293500
+Automated anomalous child repetitive head movement identification through transformer networks
+(2023) Physical and Engineering Sciences in Medicine, 46 (4), pp. 1427 - 1445, Cited 2 times.
+DOI: 10.1007/s13246-023-01309-5
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173961084&doi=10.1007%2Fs13246-023-01309-5&partnerID=40&md5=bdff63a57ebaedec3f3a3290db06cda1
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Hasan C.Z.C., Jailani R., Md Tahir N.
+AUTHOR FULL NAMES: Hasan, Che Zawiyah Che (57191612777); Jailani, Rozita (9333874900); Md Tahir, Nooritawati (56168849900)
+57191612777; 9333874900; 56168849900
+Use of statistical approaches and artificial neural networks to identify gait deviations in children with autism spectrum disorder
+(2017) International Journal of Biology and Biomedical Engineering, 11, pp. 74 - 79, Cited 8 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043500605&partnerID=40&md5=6f2ffe7c2f5daf9fd02d4456acb94438
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Li J., Kong X., Sun L., Chen X., Ouyang G., Li X., Chen S.
+AUTHOR FULL NAMES: Li, Jing (57281325700); Kong, Xiaoli (58678049200); Sun, Linlin (58861461200); Chen, Xu (57208256605); Ouyang, Gaoxiang (7005498402); Li, Xiaoli (57192497946); Chen, Shengyong (57221664060)
+57281325700; 58678049200; 58861461200; 57208256605; 7005498402; 57192497946; 57221664060
+Identification of autism spectrum disorder based on electroencephalography: A systematic review
+(2024) Computers in Biology and Medicine, 170, art. no. 108075, Cited 26 times.
+DOI: 10.1016/j.compbiomed.2024.108075
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183984329&doi=10.1016%2Fj.compbiomed.2024.108075&partnerID=40&md5=efced61806a765bd6a50b5f1a0ae6fee
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+14th International Conference on Intelligent Robotics and Applications, ICIRA 2021
+(2021) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13014 LNAI, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118219718&partnerID=40&md5=e94e6e639b65db5132ffe8e0dee306ee
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Proceedings - 2023 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, CHASE 2023
+(2023) Proceedings - 2023 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, CHASE 2023, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167422779&partnerID=40&md5=51202096cd8366aa12d9d5f48139ca35
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Pradhan A., Padhiar K., Singh A., Speedy B., Chester V.
+AUTHOR FULL NAMES: Pradhan, Ashirbad (57212518088); Padhiar, Karansinh (57939433100); Singh, Aniket (59353285400); Speedy, Brett (58781414500); Chester, Victoria (9240384400)
+57212518088; 57939433100; 59353285400; 58781414500; 9240384400
+Comparison of machine learning models for classification of gait patterns in children with autism
+(2024) Proceedings of the World Congress on Electrical Engineering and Computer Systems and Science, Cited 0 times.
+DOI: 10.11159/icbes24.146
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85205557353&doi=10.11159%2Ficbes24.146&partnerID=40&md5=1937aa4f448d1214ff2f10ec1786b368
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Proost R., Heremans E., Lagae L., Van Paesschen W., De Vos M., Jansen K.
+AUTHOR FULL NAMES: Proost, Renee (57210715227); Heremans, Elisabeth (57196187420); Lagae, Lieven (24379405500); Van Paesschen, Wim (7004556381); De Vos, Maarten (57202389126); Jansen, Katrien (36655773300)
+57210715227; 57196187420; 24379405500; 7004556381; 57202389126; 36655773300
+Automated sleep staging on reduced channels in children with epilepsy
+(2024) Frontiers in Neurology , 15, art. no. 1390465, Cited 3 times.
+DOI: 10.3389/fneur.2024.1390465
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193908172&doi=10.3389%2Ffneur.2024.1390465&partnerID=40&md5=4eb7fe5715ead7bceb4029689ee648c4
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Zhang H., Wang X., Ren W., Zhao Y., Chen Q., Su J., Chen J., Liu H.
+AUTHOR FULL NAMES: Zhang, Hanlin (57222558640); Wang, Xinming (57219425011); Ren, Weihong (57189025121); Zhao, Yuchen (57435105800); Chen, Qingcai (34869206800); Su, Jingyong (36471090500); Chen, Junjie (56556575800); Liu, Honghai (57218402201)
+57222558640; 57219425011; 57189025121; 57435105800; 34869206800; 36471090500; 56556575800; 57218402201
+Gaze-driven Interaction System for Cognitive Ability Assessment
+(2021) 11th International Conference on Intelligent Control and Information Processing, ICICIP 2021, pp. 346 - 351, Cited 2 times.
+DOI: 10.1109/ICICIP53388.2021.9642161
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123845744&doi=10.1109%2FICICIP53388.2021.9642161&partnerID=40&md5=9c2bb5071ba79f115266f27162fd7735
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sadouk L., Gadi T., Essoufi E.H.
+AUTHOR FULL NAMES: Sadouk, Lamyaa (57193485809); Gadi, Taoufiq (36801708100); Essoufi, El Hassan (6504162169)
+57193485809; 36801708100; 6504162169
+A Novel Deep Learning Approach for Recognizing Stereotypical Motor Movements within and across Subjects on the Autism Spectrum Disorder
+(2018) Computational Intelligence and Neuroscience, 2018, art. no. 7186762, Cited 37 times.
+DOI: 10.1155/2018/7186762
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050932398&doi=10.1155%2F2018%2F7186762&partnerID=40&md5=495c99c1f64f0bfc9b88e8fadfc03849
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Colonnese F., Luzio F.D., Rosato A., Panella M.
+AUTHOR FULL NAMES: Colonnese, Federica (58655473000); Luzio, Francesco Di (57226591560); Rosato, Antonello (57190070846); Panella, Massimo (57193363407)
+58655473000; 57226591560; 57190070846; 57193363407
+Bimodal Feature Analysis with Deep Learning for Autism Spectrum Disorder Detection
+(2024) International Journal of Neural Systems, 34 (2), art. no. 2450005, Cited 16 times.
+DOI: 10.1142/S0129065724500059
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85179809139&doi=10.1142%2FS0129065724500059&partnerID=40&md5=5345650ba44ffd164e1d4d5607b02f05
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+13th International Conference on Brain Inspired Cognitive Systems, BICS 2023
+(2024) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14374 LNAI, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195110471&partnerID=40&md5=acd7d3b755a8676ee56bf88142d7f813
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Du M., Li T., Xu Y., Fang P., Xu X., Shi P., Liu W., Liu X., Liu S.
+AUTHOR FULL NAMES: Du, Minghao (57537955300); Li, Tao (58761656500); Xu, Yunuo (59514119900); Fang, Peng (59513456300); Xu, Xin (59513989700); Shi, Ping (57207167949); Liu, Wei (57205722830); Liu, Xiaoya (57204178405); Liu, Shuang (56290438100)
+57537955300; 58761656500; 59514119900; 59513456300; 59513989700; 57207167949; 57205722830; 57204178405; 56290438100
+Camera-based Gait Kinematic Features Analysis and Recognition of Autism Spectrum Disorder
+(2024) Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS, Cited 0 times.
+DOI: 10.1109/EMBC53108.2024.10782497
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214979639&doi=10.1109%2FEMBC53108.2024.10782497&partnerID=40&md5=6894269323d2f11decd91f94f728fe5f
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lemler C., Kleber S.K., Polzer L., Raji N., Kitzerow-Cleven J., Kim Z., Platte S., Freitag C.M., Bast N.
+AUTHOR FULL NAMES: Lemler, Christian (58976742300); Kleber, Solvejg K. (58976072700); Polzer, Leonie (57212460992); Raji, Naisan (58976611100); Kitzerow-Cleven, Janina (58976349700); Kim, Ziyon (56816522000); Platte, Simeon (57226498496); Freitag, Christine M. (7003868143); Bast, Nico (57200231841)
+58976742300; 58976072700; 57212460992; 58976611100; 58976349700; 56816522000; 57226498496; 7003868143; 57200231841
+Semi-Automated Multi-Label Classification of Autistic Mannerisms by Machine Learning on Post Hoc Skeletal Tracking
+(2025) Autism Research, 18 (4), pp. 833 - 844, Cited 1 times.
+DOI: 10.1002/aur.70020
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000379337&doi=10.1002%2Faur.70020&partnerID=40&md5=f8007b57aa0210ea869fb8293f23c6a7
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Zakaria N.K., Tahir N.M., Jailani R., Taher M.M.
+AUTHOR FULL NAMES: Zakaria, Nur Khalidah (55976067100); Tahir, Nooritawati Md (56168849900); Jailani, Rozita (9333874900); Taher, Mayada M. (57221291073)
+55976067100; 56168849900; 9333874900; 57221291073
+Anomaly Gait Detection in ASD Children based on Markerless-based Gait Features
+(2022) Jurnal Kejuruteraan, 34 (5), pp. 965 - 973, Cited 5 times.
+DOI: 10.17576/jkukm-2022-34(5)-25
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008829607&doi=10.17576%2Fjkukm-2022-34%285%29-25&partnerID=40&md5=3c0b7fcc8c683c45977d6151278ee780
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Hasan C.Z.C., Jailani R., Tahir N.M.
+AUTHOR FULL NAMES: Hasan, Che Zawiyah Che (57191612777); Jailani, Rozita (9333874900); Tahir, Nooritawati Md (56168849900)
+57191612777; 9333874900; 56168849900
+ANN and SVM Classifiers in Identifying Autism Spectrum Disorder Gait Based on Three-Dimensional Ground Reaction Forces
+(2018) IEEE Region 10 Annual International Conference, Proceedings/TENCON, 2018-October, art. no. 8650468, pp. 2436 - 2440, Cited 12 times.
+DOI: 10.1109/TENCON.2018.8650468
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063202256&doi=10.1109%2FTENCON.2018.8650468&partnerID=40&md5=1663a33e5c90577e7113ff7c2b8b7778
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sysoeva O.V.
+AUTHOR FULL NAMES: Sysoeva, Olga Vladimirovna (18038702800)
+18038702800
+Neurophysiological markers that link genes and behavior in humans: examples from rare genetic syndromes associated with autism spectrum disorders
+(2023) Genes and Cells, 18 (4), pp. 297 - 307, Cited 1 times.
+DOI: 10.23868/gc567774
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185961342&doi=10.23868%2Fgc567774&partnerID=40&md5=fb385fbd21cfa903b3e19ebc7709265b
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Anderson J.T., Stenum J., Roemmich R.T., Wilson R.B.
+AUTHOR FULL NAMES: Anderson, Jeffrey T. (58581970700); Stenum, Jan (56413019600); Roemmich, Ryan T. (54941036500); Wilson, Rujuta B. (57201297512)
+58581970700; 56413019600; 54941036500; 57201297512
+Validation of markerless video-based gait analysis using pose estimation in toddlers with and without neurodevelopmental disorders
+(2025) Frontiers in Digital Health, 7, art. no. 1542012, Cited 2 times.
+DOI: 10.3389/fdgth.2025.1542012
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000406534&doi=10.3389%2Ffdgth.2025.1542012&partnerID=40&md5=9ccfcbbd77b1299b3872d53472fc932f
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+2nd International Human Engineering Symposium, HUMENS 2023
+(2024) Lecture Notes in Mechanical Engineering, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189520836&partnerID=40&md5=fc726f060f8796d56c5526b6162f2790
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zhao H., Swanson A., Weitlauf A., Warren Z., Sarkar N.
+AUTHOR FULL NAMES: Zhao, Huan (56963017900); Swanson, Amy (53265026200); Weitlauf, Amy (57191707622); Warren, Zachary (25032282500); Sarkar, Nilanjan (7201361624)
+56963017900; 53265026200; 57191707622; 25032282500; 7201361624
+Understanding fine motor patterns in children with autism using a haptic-gripper virtual reality system
+(2018) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 10907 LNCS, pp. 650 - 659, Cited 2 times.
+DOI: 10.1007/978-3-319-92049-8_48
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050643310&doi=10.1007%2F978-3-319-92049-8_48&partnerID=40&md5=7062f3882867079fd124a27dacace96c
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Li C., Wei L., Chen W., Ran G., Liu L., Li Z., Song A., Liu M., Huang D., Tang K., Zeng X., Wang L.
+AUTHOR FULL NAMES: Li, Chanhua (58769147500); Wei, Lijuan (59715519900); Chen, Wanling (58769001600); Ran, Guanghui (59715520000); Liu, Lili (59224767200); Li, Zhongyi (59715913000); Song, Anhua (59454462600); Liu, Meiliang (57205530224); Huang, Dongping (57194340051); Tang, Kun (60321003300); Zeng, Xiaoyun (7403248291); Wang, Lijun (59876103600)
+58769147500; 59715519900; 58769001600; 59715520000; 59224767200; 59715913000; 59454462600; 57205530224; 57194340051; 60321003300; 7403248291; 59876103600
+Cell death-associated genes as novel diagnostic biomarkers for autism spectrum disorder
+(2026) Apoptosis, 31 (1), art. no. 23, Cited 0 times.
+DOI: 10.1007/s10495-025-02201-1
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105027021497&doi=10.1007%2Fs10495-025-02201-1&partnerID=40&md5=830b9a8fd26b10f9bd69bec194faa34c
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gawish M., El-Askary N.S., Morsey M.M., Mahmoud A.M., Aref M., El-Arif T.I.
+AUTHOR FULL NAMES: Gawish, Mohamed (55497492900); El-Askary, Nada S. (57209749839); Morsey, Mohamed Mabrouk (53980148300); Mahmoud, Abeer M. (57218923881); Aref, Mostafa (35576465900); El-Arif, Taha Ibrahim (24474292800)
+55497492900; 57209749839; 53980148300; 57218923881; 35576465900; 24474292800
+Optimized Random Forest for High-Accuracy Autism Spectrum Disorder Detection via Phenotypic Data
+(2025) International Journal of Advanced Computer Science and Applications, 16 (9), pp. 660 - 672, Cited 0 times.
+DOI: 10.14569/IJACSA.2025.0160963
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105018298809&doi=10.14569%2FIJACSA.2025.0160963&partnerID=40&md5=56b20b54befa257627b4fb284542f0e8
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+7th IEEE-EMBS Conference on Biomedical Engineering and Sciences, IECBES 2022 - Proceedings
+(2022) 7th IEEE-EMBS Conference on Biomedical Engineering and Sciences, IECBES 2022 - Proceedings, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85152371345&partnerID=40&md5=8cddf8b0b03f825e799f909abfb1e8f0
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kulyabin M., Constable P.A., Zhdanov A., Lee I.O., Thompson D.A., Maier A.
+AUTHOR FULL NAMES: Kulyabin, Mikhail (58488522400); Constable, Paul A. (58116045400); Zhdanov, Aleksei (57199051104); Lee, Irene O. (49461376100); Thompson, Dorothy A. (7404935216); Maier, Andreas (23392966100)
+58488522400; 58116045400; 57199051104; 49461376100; 7404935216; 23392966100
+Attention to the Electroretinogram: Gated Multilayer Perceptron for ASD Classification
+(2024) IEEE Access, 12, pp. 52352 - 52362, Cited 9 times.
+DOI: 10.1109/ACCESS.2024.3386638
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85190174297&doi=10.1109%2FACCESS.2024.3386638&partnerID=40&md5=dd821fcc8bdc6984621f877eb3ea2482
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Solek P., Nurfitri E., Sahril I., Prasetya T., Rizqiamuti A.F., Burhan, Rachmawati I., Gamayani U., Rusmil K., Chandra L.A., Afriandi I., Gunawan K.
+AUTHOR FULL NAMES: Solek, Purboyo (57189695365); Nurfitri, Eka (58854542900); Sahril, Indra (59773112200); Prasetya, Taufan (59263534400); Rizqiamuti, Anggia Farrah (59274969200); Burhan (59772681100); Rachmawati, Irma (59773112300); Gamayani, Uni (57208823154); Rusmil, Kusnandi (6505911080); Chandra, Lukman Ade (57704231100); Afriandi, Irvan (36136674400); Gunawan, Kevin (57195935319)
+57189695365; 58854542900; 59773112200; 59263534400; 59274969200; 59772681100; 59773112300; 57208823154; 6505911080; 57704231100; 36136674400; 57195935319
+The Role of Artificial Intelligence for Early Diagnostic Tools of Autism Spectrum Disorder: A Systematic Review
+(2025) Turkish Archives of Pediatrics, 60 (2), pp. 126 - 140, Cited 9 times.
+DOI: 10.5152/TurkArchPediatr.2025.24183
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105004312390&doi=10.5152%2FTurkArchPediatr.2025.24183&partnerID=40&md5=fabfb38ed255689b75a030b9fda2acc9
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Sadek E.T., Seada N.A., Ghoniemy S.
+AUTHOR FULL NAMES: Sadek, Esraa T. (57221982137); Seada, Noha A. (57192157713); Ghoniemy, Said (24586653300)
+57221982137; 57192157713; 24586653300
+Neural Network-Based Method for Early Diagnosis of Autism Spectral Disorder Head-Banging Behavior from Recorded Videos
+(2023) International Journal of Pattern Recognition and Artificial Intelligence, 37 (5), art. no. 2356003, Cited 9 times.
+DOI: 10.1142/S0218001423560037
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153950935&doi=10.1142%2FS0218001423560037&partnerID=40&md5=cc3e2b3261f06b7b7cb14890a9b11a3b
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Saranya A., Anandan R.
+AUTHOR FULL NAMES: Saranya, A. (57211066780); Anandan, R. (55418360900)
+57211066780; 55418360900
+FIGS-DEAF: an novel implementation of hybrid deep learning algorithm to predict autism spectrum disorders using facial fused gait features
+(2022) Distributed and Parallel Databases, 40 (4), pp. 753 - 778, Cited 17 times.
+DOI: 10.1007/s10619-021-07361-y
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85113392245&doi=10.1007%2Fs10619-021-07361-y&partnerID=40&md5=bd468c2e0832f9b3476e752f7b058c2e
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Negin F., Ozyer B., Agahian S., Kacdioglu S., Ozyer G.T.
+AUTHOR FULL NAMES: Negin, Farhood (55807355500); Ozyer, Baris (26427803200); Agahian, Saeid (57156487700); Kacdioglu, Sibel (57221816961); Ozyer, Gulsah Tumuklu (16234188100)
+55807355500; 26427803200; 57156487700; 57221816961; 16234188100
+Vision-assisted recognition of stereotype behaviors for early diagnosis of Autism Spectrum Disorders
+(2021) Neurocomputing, 446, pp. 145 - 155, Cited 57 times.
+DOI: 10.1016/j.neucom.2021.03.004
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103937312&doi=10.1016%2Fj.neucom.2021.03.004&partnerID=40&md5=5e5f91a0288c65a8c443d72c944b5b74
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kang J., Han X., Hu J.-F., Feng H., Li X.
+AUTHOR FULL NAMES: Kang, Jiannan (57192107293); Han, Xiaoya (57215872111); Hu, Jon-Fan (23090663300); Feng, Hua (35749834300); Li, Xiaoli (57192497946)
+57192107293; 57215872111; 23090663300; 35749834300; 57192497946
+The study of the differences between low-functioning autistic children and typically developing children in the processing of the own-race and other-race faces by the machine learning approach
+(2020) Journal of Clinical Neuroscience, 81, pp. 54 - 60, Cited 20 times.
+DOI: 10.1016/j.jocn.2020.09.039
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091736372&doi=10.1016%2Fj.jocn.2020.09.039&partnerID=40&md5=cae2aebf8a86addf8011c6b87c2f5444
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Qiu K., Wang H., Liu F., Dong Y., Yu D.
+AUTHOR FULL NAMES: Qiu, Kai (58916754900); Wang, Hongan (57361450900); Liu, Fulin (57361451000); Dong, Yuhong (57861213100); Yu, Dongchuan (8252029100)
+58916754900; 57361450900; 57361451000; 57861213100; 8252029100
+Identifying Autistic Children by Machine Learning Models with Features Extracted from Wearable Inertial Sensors
+(2023) Proceedings - 2023 Cross Strait Radio Science and Wireless Technology Conference, CSRSWTC 2023, Cited 1 times.
+DOI: 10.1109/CSRSWTC60855.2023.10427347
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186503431&doi=10.1109%2FCSRSWTC60855.2023.10427347&partnerID=40&md5=bca0cda4951b17bb827f74d4003cf1c1
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jazouli M., Ezghari S., Majda A., Zahi A., Aalouane R., Zarghili A.
+AUTHOR FULL NAMES: Jazouli, Maha (56925494900); Ezghari, Soufiane (56641666900); Majda, Aicha (46161449100); Zahi, Azeddine (6504105416); Aalouane, Rachid (24381855300); Zarghili, Arsalane (7801340942)
+56925494900; 56641666900; 46161449100; 6504105416; 24381855300; 7801340942
+Recognising of repetitive and stereotyped movements for children with autism spectrum disorder
+(2020) International Journal of Bioinformatics Research and Applications, 16 (4), pp. 355 - 372, Cited 0 times.
+DOI: 10.1504/IJBRA.2020.113020
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85100949303&doi=10.1504%2FIJBRA.2020.113020&partnerID=40&md5=ade038ac95042cdcf3760543bf400089
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+van den Heuvel O.A.
+AUTHOR FULL NAMES: van den Heuvel, Odile A. (6603278935)
+6603278935
+Can transgenic monkeys help us innovate transdiagnostic therapies?
+(2021) American Journal of Psychiatry, 178 (1), pp. 8 - 10, Cited 2 times.
+DOI: 10.1176/appi.ajp.2020.20111590
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098713133&doi=10.1176%2Fappi.ajp.2020.20111590&partnerID=40&md5=914bd89505747099ce3df547668f3933
+
+DOCUMENT TYPE: Editorial
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Piatkowska W.J., Spolaor F., Romanato M., Polli R., Huang A., Murgia A., Sawacha Z.
+AUTHOR FULL NAMES: Piatkowska, Weronika Joanna (57225219126); Spolaor, Fabiola (36698493900); Romanato, Marco (57219504305); Polli, Roberta (6602773043); Huang, Alessandra (57443837700); Murgia, Alessandra (7004130427); Sawacha, Zimi (21743835000)
+57225219126; 36698493900; 57219504305; 6602773043; 57443837700; 7004130427; 21743835000
+A Supervised Classification of Children with Fragile X Syndrome and Controls Based on Kinematic and sEMG Parameters
+(2022) Applied Sciences (Switzerland), 12 (3), art. no. 1612, Cited 2 times.
+DOI: 10.3390/app12031612
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124196090&doi=10.3390%2Fapp12031612&partnerID=40&md5=190e6a619240c945d5366bbef866b73d
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Ortiz-Cruz E.E., Ayala-Guerrero F., Mateos-Salgado E.L., Bernal-Hernández J., Carillo-Calvet H.A., Jiménez-Andrade J.L.
+AUTHOR FULL NAMES: Ortiz-Cruz, Elisa Ester (57202089135); Ayala-Guerrero, Fructuoso (7003667514); Mateos-Salgado, Erik Leonardo (57201064086); Bernal-Hernández, Jorge (59158107500); Carillo-Calvet, Humberto Andrés (59455647900); Jiménez-Andrade, José Luis (57194163017)
+57202089135; 7003667514; 57201064086; 59158107500; 59455647900; 57194163017
+Artificial neural network for evaluating sleep spindles and slow waves after transcranial magnetic stimulation in a child with autism
+(2024) Neurocase, 30 (5), pp. 189 - 197, Cited 0 times.
+DOI: 10.1080/13554794.2024.2436208
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85211008178&doi=10.1080%2F13554794.2024.2436208&partnerID=40&md5=325cc949821406329afa1d928bc737a8
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kollias K.-F., Syriopoulou-Delli C.K., Sarigiannidis P., Fragulis G.F.
+AUTHOR FULL NAMES: Kollias, Konstantinos-Filippos (57221864882); Syriopoulou-Delli, Christine K. (40462475200); Sarigiannidis, Panagiotis (12445587500); Fragulis, George F. (6602402881)
+57221864882; 40462475200; 12445587500; 6602402881
+The contribution of Machine Learning and Eye-tracking technology in Autism Spectrum Disorder research: A Review Study
+(2021) 2021 10th International Conference on Modern Circuits and Systems Technologies, MOCAST 2021, art. no. 9493357, Cited 16 times.
+DOI: 10.1109/MOCAST52088.2021.9493357
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112197915&doi=10.1109%2FMOCAST52088.2021.9493357&partnerID=40&md5=5762b0b2e1624c8254d97eb36a3a559f
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zhang-James Y., Buitelaar J.K., van Rooij D., Faraone S.V.
+AUTHOR FULL NAMES: Zhang-James, Yanli (26024963500); Buitelaar, Jan K. (57208766003); van Rooij, Daan (36448615500); Faraone, Stephen V. (36047714700)
+26024963500; 57208766003; 36448615500; 36047714700
+Ensemble classification of autism spectrum disorder using structural magnetic resonance imaging features
+(2021) JCPP Advances, 1 (3), art. no. e12042, Cited 7 times.
+DOI: 10.1002/jcv2.12042
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140426427&doi=10.1002%2Fjcv2.12042&partnerID=40&md5=ab4d3a48d1f758f32a5563b69e693b5e
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Nahavandi D., Alizadehsani R., Khosravi A., Acharya U.R.
+AUTHOR FULL NAMES: Nahavandi, Darius (57063282400); Alizadehsani, Roohallah (55328861400); Khosravi, Abbas (56234594800); Acharya, U Rajendra (7004510847)
+57063282400; 55328861400; 56234594800; 7004510847
+Application of artificial intelligence in wearable devices: Opportunities and challenges
+(2022) Computer Methods and Programs in Biomedicine, 213, art. no. 106541, Cited 322 times.
+DOI: 10.1016/j.cmpb.2021.106541
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120940769&doi=10.1016%2Fj.cmpb.2021.106541&partnerID=40&md5=9401abeaf3c29b09b5539777924dfa51
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+de Belen R.A.J., Bednarz T., Sowmya A., Del Favero D.
+AUTHOR FULL NAMES: de Belen, Ryan Anthony J. (57194784108); Bednarz, Tomasz (23089950100); Sowmya, Arcot (6603623225); Del Favero, Dennis (23049466300)
+57194784108; 23089950100; 6603623225; 23049466300
+Computer vision in autism spectrum disorder research: a systematic review of published studies from 2009 to 2019
+(2020) Translational Psychiatry, 10 (1), art. no. 333, Cited 112 times.
+DOI: 10.1038/s41398-020-01015-w
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091715959&doi=10.1038%2Fs41398-020-01015-w&partnerID=40&md5=f04da191393718c7823b0498e1021757
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Genovese A., Ellerbeck K.
+AUTHOR FULL NAMES: Genovese, Ann (56927896300); Ellerbeck, Kathryn (6508388575)
+56927896300; 6508388575
+Autism Spectrum Disorder: a Review of Behavioral and Psychiatric Challenges Across the Lifespan
+(2022) SN Comprehensive Clinical Medicine, 4 (1), art. no. 217, Cited 11 times.
+DOI: 10.1007/s42399-022-01302-1
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105015981506&doi=10.1007%2Fs42399-022-01302-1&partnerID=40&md5=a00524a0d34054a3a26caf34f76c96eb
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Idei H., Murata S., Chen Y., Yamashita Y., Tani J., Ogata T.
+AUTHOR FULL NAMES: Idei, Hayato (57203033490); Murata, Shingo (55973467800); Chen, Yiwen (57193629891); Yamashita, Yuichi (36986391800); Tani, Jun (56072068100); Ogata, Tetsuya (7402000772)
+57203033490; 55973467800; 57193629891; 36986391800; 56072068100; 7402000772
+Reduced behavioral flexibility by aberrant sensory precision in autism spectrum disorder: A neurorobotics experiment
+(2017) 7th Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics, ICDL-EpiRob 2017, 2018-January, pp. 271 - 276, Cited 9 times.
+DOI: 10.1109/DEVLRN.2017.8329817
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050359930&doi=10.1109%2FDEVLRN.2017.8329817&partnerID=40&md5=64c05be358dc76d077211d32e4f9538d
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Amrani G., Adadi A., Berrada M., Souirti Z., Boujraf S.
+AUTHOR FULL NAMES: Amrani, Ghita (57219483548); Adadi, Amina (56145007600); Berrada, Mohammed (57198135988); Souirti, Zouhayr (35335467400); Boujraf, Said (57220277366)
+57219483548; 56145007600; 57198135988; 35335467400; 57220277366
+EEG signal analysis using deep learning: A systematic literature review
+(2021) 5th International Conference on Intelligent Computing in Data Sciences, ICDS 2021, Cited 43 times.
+DOI: 10.1109/ICDS53782.2021.9626707
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123480267&doi=10.1109%2FICDS53782.2021.9626707&partnerID=40&md5=2b996d15d59b5a982f61997706116ebe
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics, BioRob 2020
+(2020) Proceedings of the IEEE RAS and EMBS International Conference on Biomedical Robotics and Biomechatronics, 2020-November, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85095604824&partnerID=40&md5=fbaf89908bbed9cd7ba17da80d2aeb73
+
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Aldhyani T.H.H., Al-Nefaie A.H.
+AUTHOR FULL NAMES: Aldhyani, Theyazn H. H. (57191275820); Al-Nefaie, Abdullah H. (57219187468)
+57191275820; 57219187468
+DASD- diagnosing autism spectrum disorder based on stereotypical hand-flapping movements using multi-stream neural networks and attention mechanisms
+(2025) Frontiers in Physiology, 16, art. no. 1593965, Cited 1 times.
+DOI: 10.3389/fphys.2025.1593965
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105011090414&doi=10.3389%2Ffphys.2025.1593965&partnerID=40&md5=7ea7b8d0bfbed4ea22a47acc36563065
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Asmetha Jeyarani R., Senthilkumar R.
+AUTHOR FULL NAMES: Asmetha Jeyarani, R. (57220044278); Senthilkumar, Radha (23986066900)
+57220044278; 23986066900
+DSVTN-ASD: Detection of Stereotypical Behaviors in Individuals with Autism Spectrum Disorder using a Dual Self-Supervised Video Transformer Network
+(2025) Neurocomputing, 624, art. no. 129397, Cited 8 times.
+DOI: 10.1016/j.neucom.2025.129397
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85216114448&doi=10.1016%2Fj.neucom.2025.129397&partnerID=40&md5=f39cb98a2442642b54a974c81c5e54a4
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Tsukumo T., Chen K., Asada T., Miura K., Kadone H., Sakashita K., Sunami T., Yamazaki M., Ienaga N., Kuroda Y.
+AUTHOR FULL NAMES: Tsukumo, Tsuguhiro (60223297200); Chen, Kaixu (59445448900); Asada, Tomoyuki (57209413119); Miura, Kousei (57196415531); Kadone, Hideki (24479446400); Sakashita, Kotaro (57574498400); Sunami, Takahiro (57210913553); Yamazaki, Masashi (7402387545); Ienaga, Naoto (56938798100); Kuroda, Yoshihiro (7403011856)
+60223297200; 59445448900; 57209413119; 57196415531; 24479446400; 57574498400; 57210913553; 7402387545; 56938798100; 7403011856
+Spinal Disease Classification Using Deep Learning on Dual-View Videos
+(2025) Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS, Cited 0 times.
+DOI: 10.1109/EMBC58623.2025.11254342
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105023716236&doi=10.1109%2FEMBC58623.2025.11254342&partnerID=40&md5=a41b8c2f08923e97a91972ddcda501d0
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Weerasinghe Y., Grillo M., Ahmed M.H., Sheppard C., Taebi A., Wilder D., Kaya M., Thibbotuwawa P.
+AUTHOR FULL NAMES: Weerasinghe, Yasith (59539576900); Grillo, Michael (59196928900); Ahmed, Mohammad H. (58273587600); Sheppard, Christina (58174647200); Taebi, Amirtaha (57201787040); Wilder, David (7006772175); Kaya, Mehmet (55352183900); Thibbotuwawa, Peshala (59540078600)
+59539576900; 59196928900; 58273587600; 58174647200; 57201787040; 7006772175; 55352183900; 59540078600
+MARKERLESS POSE ESTIMATION AND WEARABLE SENSOR TECHNOLOGY FOR ENHANCED DIAGNOSIS AND MONITORING OF IDIOPATHIC TOE WALKING
+(2024) ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE), 4, art. no. V004T06A019, Cited 0 times.
+DOI: 10.1115/IMECE2024-145524
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85216779701&doi=10.1115%2FIMECE2024-145524&partnerID=40&md5=f19d55e6dfb6e99c2591414387dd56c3
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ferri E., Noris A., Appleton T., Peraio S., Di Rita A., Spezzani C., Battini R., D’Incerti L., Lenge M., Sica M., Macconi L., Mesin L., Fontanarosa M., Raggi M., Giordano F.
+AUTHOR FULL NAMES: Ferri, Elena (60333351600); Noris, Alice (59906720700); Appleton, Tayler (58970799300); Peraio, Simone (44061662000); Di Rita, Andrea (23993884100); Spezzani, Chiara (57896343500); Battini, Roberta (7004015465); D’Incerti, Ludovico (57200797545); Lenge, Matteo (55826460100); Sica, Michela (57225172806); Macconi, Letizia (53881731800); Mesin, Luca (6507424702); Fontanarosa, Matilda (60333365400); Raggi, Matteo (58664078600); Giordano, Flavio (16241660500)
+60333351600; 59906720700; 58970799300; 44061662000; 23993884100; 57896343500; 7004015465; 57200797545; 55826460100; 57225172806; 53881731800; 6507424702; 60333365400; 58664078600; 16241660500
+Individuation of predictive parameters of posterior cranial fossa decompression in pediatric patients with Chiari I malformation and autism spectrum disorder
+(2026) Child's Nervous System, 42 (1), art. no. 28, Cited 0 times.
+DOI: 10.1007/s00381-025-07119-2
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-105027478702&doi=10.1007%2Fs00381-025-07119-2&partnerID=40&md5=fa8f332e2f4a213c50240df7bf66ead3
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Yao H., Deng W., Liu H., Hong X., Wang S., Yang J., Zhao S.
+AUTHOR FULL NAMES: Yao, Hongxun (57204325155); Deng, Weihong (8905974100); Liu, Honghai (57218402201); Hong, Xiaopeng (35179692900); Wang, Sujing (56483373800); Yang, Jufeng (24832237100); Zhao, Sicheng (50862244900)
+57204325155; 8905974100; 57218402201; 35179692900; 56483373800; 24832237100; 50862244900
+An overview of research development of affective computing and understanding [情感计算与理解研究发展概述]
+(2022) Journal of Image and Graphics, 27 (6), pp. 2008 - 2035, Cited 16 times.
+DOI: 10.11834/jig.220085
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131857325&doi=10.11834%2Fjig.220085&partnerID=40&md5=ebdae37b6a0ddc1cb8b09f06012a6f27
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Ilias S., Tahir N.M., Jailani R.
+AUTHOR FULL NAMES: Ilias, Suryani (57136553100); Tahir, Nooritawati Md (56168849900); Jailani, Rozita (9333874900)
+57136553100; 56168849900; 9333874900
+Feature extraction of autism gait data using principal component analysis and linear discriminant analysis
+(2017) IEACon 2016 - 2016 IEEE Industrial Electronics and Applications Conference, art. no. 8067391, pp. 275 - 279, Cited 6 times.
+DOI: 10.1109/IEACON.2016.8067391
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85034081031&doi=10.1109%2FIEACON.2016.8067391&partnerID=40&md5=cba40014aa959735cd93ccaf16db49ca
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Chester V., Padhiar K., Pradhan A., Marcial N., Speedy B.
+AUTHOR FULL NAMES: Chester, Victoria (9240384400); Padhiar, Karansinh (57939433100); Pradhan, Ashirbad (57212518088); Marcial, Nayeli (58781214200); Speedy, Brett (58781414500)
+9240384400; 57939433100; 57212518088; 58781214200; 58781414500
+Classification of Gait Patterns in Autism Using Kinematic Data
+(2023) Proceedings of the World Congress on Electrical Engineering and Computer Systems and Science, art. no. ICBES 140, Cited 0 times.
+DOI: 10.11159/icbes23.140
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180630820&doi=10.11159%2Ficbes23.140&partnerID=40&md5=7c09da5cadd798045ead97b7e64c5eb3
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Randhavane T., Bhattacharya U., Kapsaskis K., Gray K., Bera A., Manocha D.
+AUTHOR FULL NAMES: Randhavane, Tanmay (56225707000); Bhattacharya, Uttaran (57211502663); Kapsaskis, Kyra (57211196201); Gray, Kurt (15520639300); Bera, Aniket (56462306900); Manocha, Dinesh (35452853100)
+56225707000; 57211502663; 57211196201; 15520639300; 56462306900; 35452853100
+Learning perceived emotion using affective and deep features for mental health applications
+(2019) Adjunct Proceedings of the 2019 IEEE International Symposium on Mixed and Augmented Reality, ISMAR-Adjunct 2019, art. no. 8951781, pp. 395 - 399, Cited 22 times.
+DOI: 10.1109/ISMAR-Adjunct.2019.000-2
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078755184&doi=10.1109%2FISMAR-Adjunct.2019.000-2&partnerID=40&md5=bf8f35da534e77e6ec651d29fdd5b6fb
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Henderson B., Yogarajah P., Gardiner B., McGinnity T.M.
+AUTHOR FULL NAMES: Henderson, B. (57219434172); Yogarajah, Pratheepan (36844934000); Gardiner, Bryan (24477235800); McGinnity, T. Martin (7003792410)
+57219434172; 36844934000; 24477235800; 7003792410
+Encoding Kinematic and Temporal Gait Data in an Appearance-Based Feature for the Automatic Classification of Autism Spectrum Disorder
+(2023) IEEE Access, 11, pp. 134100 - 134117, Cited 5 times.
+DOI: 10.1109/ACCESS.2023.3336861
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178992057&doi=10.1109%2FACCESS.2023.3336861&partnerID=40&md5=1b02773d494aa47d8de2a96626379095
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Ranasinghe L., Perera S., Perera S., Mayadunna J., De Silva D., Vidhanaarachchi S., Rathnayake S.
+AUTHOR FULL NAMES: Ranasinghe, Lochani (59589989700); Perera, Sunera (59585817200); Perera, Sahan (59589989800); Mayadunna, Janani (59587511200); De Silva, Dilshan (26636302100); Vidhanaarachchi, Samitha (57480855300); Rathnayake, Samadhi (58909476500)
+59589989700; 59585817200; 59589989800; 59587511200; 26636302100; 57480855300; 58909476500
+Deep Learning for Early Autism Screening: Analysis of Hand-Flapping Motions in Infants
+(2024) 2024 6th International Conference on Advancements in Computing, ICAC 2024, pp. 336 - 341, Cited 0 times.
+DOI: 10.1109/ICAC64487.2024.10851000
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85218461450&doi=10.1109%2FICAC64487.2024.10851000&partnerID=40&md5=45a5633cef76814cbf32a197e1233a07
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zhang B., Yuan Y., Qin W., Li X., Liu W., Yao W., Bian Y., Liu J.
+AUTHOR FULL NAMES: Zhang, Baiqiao (58942966400); Yuan, Yanran (59464737800); Qin, Wei (59464737900); Li, Xiangxian (57372443800); Liu, Weiying (57225074152); Yao, Wenxin (59464895800); Bian, Yulong (56937900000); Liu, Juan (57191506564)
+58942966400; 59464737800; 59464737900; 57372443800; 57225074152; 59464895800; 56937900000; 57191506564
+Enhancing Recognition of Stereotyped Movements in ASD Children Through Action Pattern Mining and Multi-Channel Fusion
+(2025) IEEE Journal of Biomedical and Health Informatics, 29 (3), pp. 2020 - 2033, Cited 1 times.
+DOI: 10.1109/JBHI.2024.3511601
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85211459267&doi=10.1109%2FJBHI.2024.3511601&partnerID=40&md5=81b5753e3b6dc983ffff680a4d76e062
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jiang M., Francis S.M., Tseng A., Srishyla D., Dubois M., Beard K., Conelea C., Zhao Q., Jacob S.
+AUTHOR FULL NAMES: Jiang, Ming (56027704500); Francis, Sunday M. (55979295000); Tseng, Angela (55920911000); Srishyla, Diksha (57213596359); Dubois, Megan (57221231170); Beard, Katie (57216864368); Conelea, Christine (13402971200); Zhao, Qi (55743334300); Jacob, Suma (7202574761)
+56027704500; 55979295000; 55920911000; 57213596359; 57221231170; 57216864368; 13402971200; 55743334300; 7202574761
+Predicting Core Characteristics of ASD Through Facial Emotion Recognition and Eye Tracking in Youth
+(2020) Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS, 2020-July, art. no. 9176843, pp. 871 - 875, Cited 20 times.
+DOI: 10.1109/EMBC44109.2020.9176843
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091001196&doi=10.1109%2FEMBC44109.2020.9176843&partnerID=40&md5=3b213f2bf98aeaafb5ebd7741bb9a627
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+

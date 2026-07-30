@@ -1,0 +1,191 @@
+1: Millar L, McConnachie A, Minnis H, Wilson P, Thompson L, Anzulewicz A, Sobota
+K, Rowe P, Gillberg C, Delafield-Butt J. Phase 3 diagnostic evaluation of a
+smart tablet serious game to identify autism in 760 children 3-5 years old in
+Sweden and the United Kingdom. BMJ Open. 2019 Jul 16;9(7):e026226. doi:
+10.1136/bmjopen-2018-026226. PMID: 31315858; PMCID: PMC6661582.
+
+2: Santana-Coelho D, Dos Santos de Bessa R, Romcy-Pereira RN, de la Flor MA,
+O'Connor JC. The role of the kynurenine pathway in the pathophysiology of
+autism-like phenotype induced by maternal inflammation in male mice. Neurobiol
+Dis. 2026 Mar;220:107282. doi: 10.1016/j.nbd.2026.107282. Epub 2026 Jan 21.
+PMID: 41577052.
+
+3: Takami M, Nishiyama D, Tsutsui S, Nagata K, Ishimoto Y, Oda K, Iwasaki H,
+Hashizume H, Yamada H. Pelvic Kinematics during Gait Following Long-Segment
+Spinal Fusion Due to Adult Spinal Deformity: An Analysis Using a Smartphone-
+Based Inertial Measurement Unit. Spine Surg Relat Res. 2024 Aug 6;9(2):188-194.
+doi: 10.22603/ssrr.2024-0119. PMID: 40223826; PMCID: PMC11983113.
+
+4: Bouargane Z, Olucha-Bordonau FE, Bennis M, Ba-M'hamed S, Lamghari-Moubarrad
+FZ. Comparative analysis of BORIS, Ethovision, DeepLabCut, and SimBA for
+quantifying autism spectrum disorder-like behaviors in the valproic acid mouse
+model. Neurosci Lett. 2026 Feb 10;875:138542. doi: 10.1016/j.neulet.2026.138542.
+Epub ahead of print. PMID: 41679592.
+
+5: Nassim N, Mekhael E, Rachkidi RE, Saadé M, Ayoub E, Rteil A, Jaber E, Chaaya
+C, Rehayem R, Abi Nahed J, Karam M, Ghanem I, Massaad A, Assi A. Global Sagittal
+Angle and T9-tilt seem to be the most clinically and functionally relevant
+global alignment parameters in patients with Adult Spinal Deformity. Brain
+Spine. 2024 Apr 10;4:102805. doi: 10.1016/j.bas.2024.102805. PMID: 38646427;
+PMCID: PMC11033086.
+
+6: Mano N, Mori K, Ushikubo T, Konishi T, Ito S, Kuramoto J, Ishihara M, Hase K.
+Gait Characteristics Associated with Walking Speed in Postoperative Patients
+with Adult Spinal Deformity Extracted by Machine Learning. Ann Biomed Eng. 2025
+Aug;53(8):1797-1809. doi: 10.1007/s10439-025-03750-x. Epub 2025 May 8. PMID:
+40338407.
+
+7: Wahle CF, Elias AM, Galoustian NA, Tee TM, Juels ML, Amacker C, Waters H,
+Thompson RM. Video and Wearable Sensor Technologies for Early Detection of
+Cerebral Palsy in Infants: A Scoping Review. J Clin Med. 2026 Feb 14;15(4):1510.
+doi: 10.3390/jcm15041510. PMID: 41753197; PMCID: PMC12941449.
+
+8: Li B, Sharma A, Meng J, Purushwalkam S, Gowen E. Applying machine learning to
+identify autistic adults using imitation: An exploratory study. PLoS One. 2017
+Aug 16;12(8):e0182652. doi: 10.1371/journal.pone.0182652. PMID: 28813454; PMCID:
+PMC5558936.
+
+9: Mohammadian Rad N, van Laarhoven T, Furlanello C, Marchiori E. Novelty
+Detection using Deep Normative Modeling for IMU-Based Abnormal Movement
+Monitoring in Parkinson's Disease and Autism Spectrum Disorders. Sensors
+(Basel). 2018 Oct 19;18(10):3533. doi: 10.3390/s18103533. PMID: 30347656; PMCID:
+PMC6211024.
+
+10: Ulaganathan S, Harshavardhanan P, Ganapathi Raju NV, Parthasarathy G. Hybrid
+optimization enabled DenseNet for autism spectrum disorders using MRI image.
+Comput Biol Chem. 2025 Apr;115:108335. doi: 10.1016/j.compbiolchem.2024.108335.
+Epub 2024 Dec 30. PMID: 39793514.
+
+11: Torabi R, Jenkins S, Harker A, Whishaw IQ, Gibb R, Luczak A. A Neural
+Network Reveals Motoric Effects of Maternal Preconception Exposure to Nicotine
+on Rat Pup Behavior: A New Approach for Movement Disorders Diagnosis. Front
+Neurosci. 2021 Jul 20;15:686767. doi: 10.3389/fnins.2021.686767. PMID: 34354562;
+PMCID: PMC8329707.
+
+12: Kang J, Han X, Hu JF, Feng H, Li X. The study of the differences between
+low-functioning autistic children and typically developing children in the
+processing of the own-race and other-race faces by the machine learning
+approach. J Clin Neurosci. 2020 Nov;81:54-60. doi: 10.1016/j.jocn.2020.09.039.
+Epub 2020 Sep 28. PMID: 33222968.
+
+13: Otero-Losada M, Perez Lloret S, Capani F, Falup-Pecurariu C. Editorial:
+Contribution of artificial intelligence-based tools to the study of Parkinson's
+disease and other movement disorders. Front Aging Neurosci. 2025 Mar
+4;17:1567706. doi: 10.3389/fnagi.2025.1567706. PMID: 40103925; PMCID:
+PMC11914123.
+
+14: Jequier Gygax M, Maillard AM, Favre J. Could Gait Biomechanics Become a
+Marker of Atypical Neuronal Circuitry in Human Development?-The Example of
+Autism Spectrum Disorder. Front Bioeng Biotechnol. 2021 Mar 16;9:624522. doi:
+10.3389/fbioe.2021.624522. PMID: 33796508; PMCID: PMC8009281.
+
+15: Ardalan A, Assadi AH, Surgent OJ, Travers BG. Whole-Body Movement during
+Videogame Play Distinguishes Youth with Autism from Youth with Typical
+Development. Sci Rep. 2019 Dec 27;9(1):20094. doi: 10.1038/s41598-019-56362-6.
+PMID: 31882934; PMCID: PMC6934713.
+
+16: So WC, Wong E, Ng W, Lay S, Wong W, So MT, Lee XH, Lee YY. Development and
+evaluation of robotic detection technology for assessing autism. Front
+Psychiatry. 2025 Sep 26;16:1636560. doi: 10.3389/fpsyt.2025.1636560. PMID:
+41080772; PMCID: PMC12512041.
+
+17: Goldthorp K, Henderson B, Yogarajah P, Gardiner B, McGinnity TM, Nicholas B,
+Wimpory DC. Increased Temporal Variability of Gait in ASD: A Motion Capture and
+Machine Learning Analysis. Biology (Basel). 2025 Jul 8;14(7):832. doi:
+10.3390/biology14070832. PMID: 40723391; PMCID: PMC12292520.
+
+18: Simeoli R, Milano N, Rega A, Marocco D. Using Technology to Identify
+Children With Autism Through Motor Abnormalities. Front Psychol. 2021 May
+25;12:635696. doi: 10.3389/fpsyg.2021.635696. PMID: 34113283; PMCID: PMC8186533.
+
+19: Kang JY, Kim R, Kim H, Kang Y, Hahn S, Fu Z, Khalid MI, Schenck E, Thesen T.
+Automated Tracking and Quantification of Autistic Behavioral Symptoms Using
+Microsoft Kinect. Stud Health Technol Inform. 2016;220:167-70. PMID: 27046572.
+
+20: Ganai UJ, Bhushan B, Venkatesh KS. Broad Autism Phenotype and Gait in
+Parents of Children With and Without Autism Spectrum Disorder. Ann Neurosci.
+2024 Jun 8;33(1):47-58. doi: 10.1177/09727531241249533. PMID: 39544648; PMCID:
+PMC11559718.
+
+21: Tsukumo T, Chen K, Asada T, Miura K, Kadone H, Sakashita K, Sunami T,
+Yamazaki M, Ienaga N, Kuroda Y. Spinal Disease Classification Using Deep
+Learning on Dual-View Videos. Annu Int Conf IEEE Eng Med Biol Soc. 2025
+Jul;2025:1-5. doi: 10.1109/EMBC58623.2025.11254342. PMID: 41336702.
+
+22: Mekhael E, El Rachkidi R, Saliby RM, Nassim N, Semaan K, Massaad A, Karam M,
+Saade M, Ayoub E, Rteil A, Jaber E, Chaaya C, Abi Nahed J, Ghanem I, Assi A.
+Functional assessment using 3D movement analysis can better predict health-
+related quality of life outcomes in patients with adult spinal deformity: a
+machine learning approach. Front Surg. 2023 May 3;10:1166734. doi:
+10.3389/fsurg.2023.1166734. PMID: 37206356; PMCID: PMC10189154.
+
+23: Anzulewicz A, Sobota K, Delafield-Butt JT. Toward the Autism Motor
+Signature: Gesture patterns during smart tablet gameplay identify children with
+autism. Sci Rep. 2016 Aug 24;6:31107. doi: 10.1038/srep31107. PMID: 27553971;
+PMCID: PMC4995518.
+
+24: Chen K, Asada T, Ienaga N, Miura K, Sakashita K, Sunami T, Kadone H,
+Yamazaki M, Kuroda Y. Two-stage video-based convolutional neural networks for
+adult spinal deformity classification. Front Neurosci. 2023 Dec 11;17:1278584.
+doi: 10.3389/fnins.2023.1278584. PMID: 38148942; PMCID: PMC10750363.
+
+25: Ganai UJ, Ratne A, Bhushan B, Venkatesh KS. Early detection of autism
+spectrum disorder: gait deviations and machine learning. Sci Rep. 2025 Jan
+6;15(1):873. doi: 10.1038/s41598-025-85348-w. PMID: 39757284; PMCID:
+PMC11701103.
+
+26: Antezana L, Conner CM, Eldeeb S, Turecki S, Siegel M, Karim HT, Mazefsky CA.
+Using machine learning to identify features associated with different types of
+self-injurious behaviors in autistic youth. Psychol Med. 2025 Mar 31;55:e98.
+doi: 10.1017/S0033291725000637. PMID: 40162513; PMCID: PMC12094640.
+
+27: Bharathi G, Jayaramayya K, Balasubramanian V, Vellingiri B. The potential
+role of rhythmic entrainment and music therapy intervention for individuals with
+autism spectrum disorders. J Exerc Rehabil. 2019 Apr 26;15(2):180-186. doi:
+10.12965/jer.1836578.289. PMID: 31110998; PMCID: PMC6509464.
+
+28: Li Y, Li H, Hu C, Cui J, Zhang F, Zhao J, Feng Y, Hu C, Yang L, Qian H, Pan
+J, Luo X, Tang Z, Hao Y. The role of the dopamine system in autism spectrum
+disorder revealed using machine learning: an ABIDE database-based study. Cereb
+Cortex. 2025 Feb 5;35(2):bhaf022. doi: 10.1093/cercor/bhaf022. PMID: 40036245.
+
+29: Klibaite U, Kislin M, Verpeut JL, Bergeler S, Sun X, Shaevitz JW, Wang SS.
+Deep phenotyping reveals movement phenotypes in mouse neurodevelopmental models.
+Mol Autism. 2022 Mar 12;13(1):12. doi: 10.1186/s13229-022-00492-8. PMID:
+35279205; PMCID: PMC8917660.
+
+30: Anderson JT, Stenum J, Roemmich RT, Wilson RB. Validation of markerless
+video-based gait analysis using pose estimation in toddlers with and without
+neurodevelopmental disorders. Front Digit Health. 2025 Feb 25;7:1542012. doi:
+10.3389/fdgth.2025.1542012. PMID: 40070543; PMCID: PMC11893606.
+
+31: Pradhan A, Chester V, Padhiar K. Classification of Autism and Control Gait
+in Children Using Multisegment Foot Kinematic Features. Bioengineering (Basel).
+2022 Oct 14;9(10):552. doi: 10.3390/bioengineering9100552. PMID: 36290520;
+PMCID: PMC9598184.
+
+32: Marciano F, Venutolo G, Ingenito CM, Verbeni A, Terracciano C, Plunk E,
+Garaci F, Cavallo A, Fasano A. Artificial Intelligence: the "<i>Trait
+D'Union</i>" in Different Analysis Approaches of Autism Spectrum Disorder
+Studies. Curr Med Chem. 2021;28(32):6591-6618. doi:
+10.2174/0929867328666210203205221. PMID: 33538662.
+
+33: Du M, Li T, Xu Y, Fang P, Xu X, Shi P, Liu W, Liu X, Liu S. Camera-based
+Gait Kinematic Features Analysis and Recognition of Autism Spectrum Disorder.
+Annu Int Conf IEEE Eng Med Biol Soc. 2024 Jul;2024:1-4. doi:
+10.1109/EMBC53108.2024.10782497. PMID: 40039120.
+
+34: Sheppard K, Gardin J, Sabnis GS, Peer A, Darrell M, Deats S, Geuther B, Lutz
+CM, Kumar V. Stride-level analysis of mouse open field behavior using deep-
+learning-based pose estimation. Cell Rep. 2022 Jan 11;38(2):110231. doi:
+10.1016/j.celrep.2021.110231. PMID: 35021077; PMCID: PMC8796662.
+
+35: Colonnese F, Di Luzio F, Rosato A, Panella M. Bimodal Feature Analysis with
+Deep Learning for Autism Spectrum Disorder Detection. Int J Neural Syst. 2024
+Feb;34(2):2450005. doi: 10.1142/S0129065724500059. Epub 2023 Dec 6. PMID:
+38063381.
+
+36: Kang L, Chen J, Huang J, Jiang J. Autism spectrum disorder recognition based
+on multi-view ensemble learning with multi-site fMRI. Cogn Neurodyn. 2023
+Apr;17(2):345-355. doi: 10.1007/s11571-022-09828-9. Epub 2022 Jun 17. PMID:
+37007200; PMCID: PMC10050260.
